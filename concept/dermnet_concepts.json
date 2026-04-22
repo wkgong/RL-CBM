@@ -1,0 +1,117 @@
+{
+    "Acne and Rosacea": {
+        "texture": ["pus-filled bumps", "smooth but swollen areas", "greasy surface", "crusted sores", "rough uneven skin"],
+        "color": ["bright red flushed skin", "white-headed spots", "black pinpoint dots", "pinkish inflammation background", "dark hyperpigmentation marks"],
+        "shape": ["small round pimples", "spider-like broken blood vessels", "scattered focal lesions", "central facial redness patches"]
+    },
+    "Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions": {
+        "texture": ["rough sandpaper-like patches", "pearly and shiny bumps", "scaly and crusty surface", "waxy firm feel", "ulcerated or bleeding center"],
+        "color": ["pearly translucent white", "pinkish-red patches", "flesh-colored bumps", "brownish-red scaling", "dark pigmented spots"],
+        "shape": ["rolled elevated edges", "irregular poorly defined borders", "dome-shaped nodules", "flat scaly plaques", "crater-like depression in the center"]
+    },
+    "Atopic Dermatitis Photos": {
+        "texture": ["dry scaly patches", "leathery thickened skin", "weeping or oozing liquid", "crusted scratch marks", "rough and inflamed surface"],
+        "color": ["dull red or pinkish rash", "brownish-gray discolored areas", "yellowish crusts", "pale background skin"],
+        "shape": ["poorly defined patchy areas", "widespread confluent redness", "crease and skin fold distributions", "irregular scratched shapes"]
+    },
+    "Bullous Disease Photos": {
+        "texture": ["tight fluid-filled sacs", "fragile easily broken skin", "raw eroded areas where blisters broke", "tense smooth blister surface"],
+        "color": ["clear fluid inside", "yellowish cloudy fluid", "bright red raw base", "normal skin colored background"],
+        "shape": ["large dome-shaped blisters", "round or oval fluid sacs", "irregular raw patches after bursting", "clustered small bubbles"]
+    },
+    "Cellulitis Impetigo and other Bacterial Infections": {
+        "texture": ["swollen and tight skin", "honey-colored crusts", "warm and tender surface", "oozing pus", "smooth and stretched feeling"],
+        "color": ["spreading bright red flush", "golden-yellow dried crusts", "cloudy white or yellow pus", "pinkish inflamed fading borders"],
+        "shape": ["rapidly expanding irregular red area", "unclear blended borders", "small clustered sores", "unilateral swollen diffuse region"]
+    },
+    "Eczema Photos": {
+        "texture": ["intensely dry and flaky", "lichenified tough skin", "bumpy with tiny hidden blisters", "excoriated from heavy scratching"],
+        "color": ["angry red inflammation", "darker hyperpigmented patches", "pale skin flakes", "yellow serous fluid"],
+        "shape": ["diffuse boundaries without clear edges", "patchy irregular distribution", "coin-shaped round plaques", "merging inflamed areas"]
+    },
+    "Exanthems and Drug Eruptions": {
+        "texture": ["smooth flat spots mixed with small bumps", "widespread fine rash", "velvety or slightly rough areas", "sometimes peeling skin surface"],
+        "color": ["generalized bright red or pink", "purple or dusky red centers", "measles-like widespread redness"],
+        "shape": ["symmetrical distribution across the body", "small round macules and papules", "target-like circles", "large merging red sheets"]
+    },
+    "Hair Loss Photos Alopecia and other Hair Diseases": {
+        "texture": ["completely smooth bald patches", "scaly hairless areas", "stubble-like broken hairs", "shiny visible scalp surface"],
+        "color": ["normal scalp skin color", "pinkish red inflamed follicles", "black dots inside follicles", "silvery scales on scalp"],
+        "shape": ["perfectly round or oval hairless patches", "receding frontal hairline", "diffuse overall thinning", "irregular moth-eaten hair patterns"]
+    },
+    "Herpes HPV and other STDs Photos": {
+        "texture": ["clusters of tiny fluid-filled blisters", "cauliflower-like rough growths", "fleshy soft bumps", "shallow painful ulcers", "crusted shallow sores"],
+        "color": ["clear or cloudy fluid", "red inflamed base", "flesh-colored or whitish warts", "yellowish-grey ulcer base"],
+        "shape": ["tightly grouped small bubbles", "irregular warty shapes", "round punched-out ulcers", "linear or grouped configurations"]
+    },
+    "Light Diseases and Disorders of Pigmentation": {
+        "texture": ["normal smooth skin feeling", "fine wrinkling from sun damage", "slightly velvety patches", "depigmented smooth areas"],
+        "color": ["chalky white patches with no pigment", "dark brown muddy patches", "freckle-like scattered spots", "greyish-blue skin discoloration"],
+        "shape": ["symmetrical butterfly shape on face", "clearly defined irregular white borders", "blotchy uneven shapes", "sharply demarcated contrasting edges"]
+    },
+    "Lupus and other Connective Tissue diseases": {
+        "texture": ["scarring and thinned out skin", "plugged hair follicles feeling rough", "hardened tight skin feeling", "scaly surface that feels like carpet tacks"],
+        "color": ["purplish-red or violaceous rash", "bright red butterfly rash", "white scarring areas in the center", "dark hyperpigmented borders"],
+        "shape": ["butterfly-shaped mask across cheeks and nose", "coin-shaped discoid plaques", "redness around the nail folds", "atrophic sunken centers"]
+    },
+    "Melanoma Skin Cancer Nevi and Moles": {
+        "texture": ["smooth flat abnormal spots", "raised bumpy asymmetrical nodules", "rough or ulcerated bleeding surface", "crusty or oozing texture"],
+        "color": ["mix of black brown and tan", "bluish-grey or white areas", "jet-black heavy pigmentation", "uneven smudged colors", "reddish inflammatory halo"],
+        "shape": ["highly asymmetrical outline", "notched scalloped or jagged borders", "irregular ink-smudge appearance", "diameter larger than a pencil eraser"]
+    },
+    "Nail Fungus and other Nail Disease": {
+        "texture": ["thickened and crumbly nails", "brittle and easily broken", "powdery subungual debris", "pitted or dented nail surface", "separated from the nail bed"],
+        "color": ["yellow or brownish discoloration", "opaque white patches", "dark greenish-black spots", "dull and lacking normal nail shine"],
+        "shape": ["distorted ugly nail shape", "lifting at the distal end", "irregular crumbling edges", "thickened wedge-like appearance"]
+    },
+    "Poison Ivy Photos and other Contact Dermatitis": {
+        "texture": ["intense weeping blisters", "crusted and oozing surface", "bumpy swollen skin", "leathery from chronic rubbing"],
+        "color": ["bright angry red streaks", "clear fluid in blisters", "yellow-brown dried crusts", "pink inflamed background"],
+        "shape": ["linear streaks or straight lines of blisters", "sharp artificial borders matching contact areas", "shapes mirroring objects like watchbands", "geometric or sharply angled patches"]
+    },
+    "Psoriasis pictures Lichen Planus and related diseases": {
+        "texture": ["covered with thick silvery scales", "extremely dry and flaky", "glistening thin film when scraped", "shiny flat-topped bumps", "fine white lines on surface"],
+        "color": ["silvery-white surface", "salmon-pink or bright red base", "violaceous or purple flat bumps", "dark red beneath scales"],
+        "shape": ["sharply defined thick plaques", "teardrop-shaped scattered spots", "symmetrical distribution on elbows and knees", "polygonal angular shaped bumps"]
+    },
+    "Scabies Lyme Disease and other Infestations and Bites": {
+        "texture": ["tiny thread-like burrows in the skin", "excoriated scratched bumps", "small hard nodules", "central bite puncture mark"],
+        "color": ["reddish-brown itchy bumps", "greyish-white thread-like lines", "expanding red ring", "central clearing giving a bullseye look"],
+        "shape": ["classic target or bullseye pattern", "wavy short linear tracks", "scattered small grouped bumps", "concentrated in finger webs and folds"]
+    },
+    "Seborrheic Keratoses and other Benign Tumors": {
+        "texture": ["stuck-on waxy appearance", "greasy and scaly surface", "rough warty texture", "soft fleshy skin tags", "smooth squishy lumps under skin"],
+        "color": ["light tan to dark brown", "black colored warty bumps", "flesh-colored normal tone", "yellowish waxy hue"],
+        "shape": ["round or oval raised lesions", "looks like clay stuck on the skin", "pedunculated hanging polyps", "dome-shaped soft masses"]
+    },
+    "Systemic Disease": {
+        "texture": ["tight and hardened skin", "waxy or shiny surface", "painful open ulcerations", "velvety thickening in skin folds", "doughy or swollen feel"],
+        "color": ["yellowish waxy deposits", "dark hyperpigmented skin folds", "purplish pinpoint spots", "diffuse yellow jaundice", "bronze hyperpigmentation"],
+        "shape": ["symmetrical systemic manifestations", "poorly defined extensive changes", "non-blanching petechiae dots", "ulcers with undermined edges"]
+    },
+    "Tinea Ringworm Candidiasis and other Fungal Infections": {
+        "texture": ["active scaly advancing edge", "macerated wet skin in folds", "powdery scaling", "satellite pustules around main area"],
+        "color": ["red inflamed border", "central clearing with lighter skin tone", "bright beefy red areas", "white curdy patches"],
+        "shape": ["perfectly annular or ring-shaped", "polycyclic overlapping rings", "sharply defined borders with central healing", "patchy areas with tiny dots spreading outward"]
+    },
+    "Urticaria Hives": {
+        "texture": ["smooth and slightly elevated", "spongy swollen feel", "no surface scaling or crusting", "transient fleeting skin elevation"],
+        "color": ["pink or pale red center", "surrounding bright red flare", "blanches completely white when pressed"],
+        "shape": ["irregular map-like areas", "round or oval wheals", "rapidly changing shapes", "targetoid or ring-like temporary patterns"]
+    },
+    "Vascular Tumors": {
+        "texture": ["soft compressible mass", "smooth bumpy surface resembling a raspberry", "pulsating feeling under skin", "easily bleeding friable surface"],
+        "color": ["bright cherry red", "deep purplish-blue", "violaceous hue", "blanches slightly upon pressure"],
+        "shape": ["raised dome-shaped nodule", "lobulated strawberry-like appearance", "flat port-wine stain patches", "spider web-like radiating vessels"]
+    },
+    "Vasculitis Photos": {
+        "texture": ["palpable small bumps", "necrotic dead skin centers", "shallow punched-out ulcers", "hemorrhagic blood-filled blisters"],
+        "color": ["deep purple or non-blanching red spots", "black necrotic crusts", "dusky dark red areas", "violaceous pinpoint dots"],
+        "shape": ["scattered tiny pinpoint spots", "star-shaped or retiform purpura", "concentrated on lower legs and ankles", "irregular necrotic ulcers"]
+    },
+    "Warts Molluscum and other Viral Infections": {
+        "texture": ["hard hyperkeratotic rough surface", "cauliflower-like projections", "smooth dome with central dimple", "thickened hard callus-like feeling"],
+        "color": ["flesh-colored or grayish-white", "tiny black dots inside", "pearly or translucent white", "yellowish rough bumps"],
+        "shape": ["dome-shaped papules", "central umbilication or dent", "exophytic irregular growths", "mosaic clustered patterns"]
+    }
+}

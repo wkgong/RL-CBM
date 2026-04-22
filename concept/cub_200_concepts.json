@@ -1,0 +1,1003 @@
+{
+    "Black_footed_Albatross": {
+        "texture": ["smooth waterproof feathers", "dense and stiff plumage", "sleek aerodynamic surface", "tightly packed wing feathers", "dusty or matte appearance"],
+        "color": ["mostly dark grey or sooty brown", "white ring around the base of the beak", "white patch under the eye", "smudgy dark facial markings", "dark brownish-black bill"],
+        "shape": ["huge wingspan", "very long and narrow glider-like wings", "large heavy hooked beak", "tube-like nostrils sitting on top of the beak", "large webbed feet", "slender gull-like shape but much larger"]
+    },
+    "Laysan_Albatross": {
+        "texture": ["smooth sleek plumage", "tightly packed waterproof feathers", "soft white belly fluff", "clean and neat feather outlines"],
+        "color": ["stark white head and belly", "dark blackish-brown upper wings and back", "dark smudge around the eye looking like dramatic eyeliner", "pale pinkish beak with a darker tip", "fleshy pink feet"],
+        "shape": ["long narrow pointed wings", "large heavy hooked beak with tubes on top", "streamlined glider-like body", "large webbed feet", "heavy and thick neck"]
+    },
+    "Sooty_Albatross": {
+        "texture": ["velvety smooth appearance", "sleek and uniform feathering", "soft gradient look without harsh patterns"],
+        "color": ["entirely dark sooty brown or greyish-brown", "pale crescent ring behind the eye", "black bill with a distinctive yellow or orange line along the lower jaw", "uniform dark coloration fading slightly lighter on the back"],
+        "shape": ["long wedge-shaped tail", "extremely long slender wings", "sharply hooked beak", "slender and elegant aerodynamic profile", "graceful soaring silhouette"]
+    },
+    "Groove_billed_Ani": {
+        "texture": ["loose and scruffy feathers", "slightly messy and unkempt appearance", "coarse tail feathers", "rough corrugated texture on the beak"],
+        "color": ["completely pitch black overall", "subtle iridescent blue or green gloss in direct sunlight", "dark dull black eyes"],
+        "shape": ["very long drooping tail", "weirdly huge arched beak with deep horizontal grooves or wrinkles", "hunched posture", "looks somewhat like a prehistoric blackbird or a clumsy crow", "rounded wings"]
+    },
+    "Crested_Auklet": {
+        "texture": ["smooth dense sea-bird plumage", "bizarre fuzzy forward-curling crest on the forehead", "stiff hair-like facial plumes"],
+        "color": ["dark charcoal grey or black overall", "bright vivid orange or reddish beak", "thin white sweeping line of feathers extending behind the eye like a racing stripe", "yellowish eyes"],
+        "shape": ["chunky potato-like body", "comical tuft of feathers curling forward over the beak like a modern messy haircut", "stubby tail", "thick curved beak looking almost plastic", "short neck and round head"]
+    },
+    "Least_Auklet": {
+        "texture": ["fine waterproof coat", "smooth mottled breast", "bristly fine facial feathers"],
+        "color": ["black back", "white belly heavily streaked or mottled with dark spots", "tiny white facial plumes looking like fine white whiskers", "dark red or blackish tiny beak", "pale yellow eyes"],
+        "shape": ["very tiny and compact round body", "extremely short stubby wings", "essentially no visible tail", "looks like a tiny feathered ping-pong ball", "stubby thick very small beak"]
+    },
+    "Parakeet_Auklet": {
+        "texture": ["smooth seabird feathers", "soft white underbelly", "clean and sharply divided color zones"],
+        "color": ["dark grey back", "pure white belly", "bright orange circular upturned beak", "single single thin white line extending from the eye backward"],
+        "shape": ["round plump body", "odd nearly circular or highly arched short beak that looks slightly upturned", "upright standing posture like a tiny penguin", "short thick neck", "blunt tail"]
+    },
+    "Rhinoceros_Auklet": {
+        "texture": ["dense sleek feathers", "stiff white facial plumes", "hard smooth horn on the beak"],
+        "color": ["dark greyish-brown back", "paler grey-brown chest", "bright orange-yellow beak", "striking white sweeping lines resembling a mustache and an eyebrow", "dirty white belly"],
+        "shape": ["distinctive upright horn or bump protruding from the base of the upper beak", "blocky large head", "chunky heavy body", "thick pointed beak", "short stubby silhouette"]
+    },
+    "Brewer_Blackbird": {
+        "texture": ["extremely glossy and smooth", "metallic reflective surface looking almost polished", "tight unbroken feather coat"],
+        "color": ["deep black with an intense purplish-blue and greenish metallic sheen on the head and back", "piercing pale yellow eyes standing out against the dark face", "dark black legs and beak"],
+        "shape": ["medium-sized sleek songbird", "sharp pointed needle-like beak", "long squared-off tail", "long thin legs", "upright alert posture"]
+    },
+    "Red_winged_Blackbird": {
+        "texture": ["glossy and sleek feathers", "smooth shiny surface reflecting light", "soft and uniform breast plumage"],
+        "color": ["pitch black overall body", "striking bright red shoulder patches resembling epaulets on a uniform", "distinctive yellow or pale border line under the red patch", "pure black beak and eyes"],
+        "shape": ["medium-sized songbird", "sharp pointed conical beak", "round plump belly", "tail slightly flared at the end", "often seen perching sideways on vertical reeds"]
+    },
+
+    "Rusty_Blackbird": {
+        "texture": ["slightly mottled or scalloped feather edges", "smooth glossy base", "soft transition between colors", "matte appearance in winter plumage"],
+        "color": ["rusty or coppery-brown feather edges fading into dull black", "piercing pale yellow eyes", "dark blackish beak", "uniform dark silhouette from a distance"],
+        "shape": ["medium-sized songbird", "slender and sharply pointed straight beak", "relatively long tail", "flat forehead", "upright walking posture on the ground"]
+    },
+    "Yellow_headed_Blackbird": {
+        "texture": ["smooth contrasting plumage", "solid unstreaked body feathers", "crisp division between yellow and black zones"],
+        "color": ["brilliant golden-yellow head, neck, and upper chest", "pitch black overall body", "stark white patch on the wing that flashes clearly in flight", "dark black mask extending from the eye to the beak"],
+        "shape": ["stout and heavy-set blackbird", "sharp conical black beak", "thick bulky neck", "large round head", "chunky body profile"]
+    },
+    "Bobolink": {
+        "texture": ["crisp distinct color patches", "smooth unbroken breast plumage", "stiff pointed tail feathers"],
+        "color": ["solid black face and underparts", "bright white back and rump", "golden-yellow or straw-colored patch on the back of the head looking like a blonde toupee"],
+        "shape": ["small plump finch-like bird", "short thick cone-shaped beak for cracking seeds", "somewhat flat head", "looks exactly like a bird wearing a tuxedo backward with a yellow hat"]
+    },
+    "Indigo_Bunting": {
+        "texture": ["vibrant metallic shimmering feathers in sunlight", "uniform and smooth unbroken texture", "sleek compact plumage"],
+        "color": ["brilliant deep indigo or cerulean blue completely covering the body", "slightly darker blue-black shading on the wings and tail", "silver-grey or metallic beak", "lacks any stripes or spots"],
+        "shape": ["tiny plump round bird", "short stout conical beak", "rounded head without a crest", "short tail", "compact finch-like silhouette"]
+    },
+    "Lazuli_Bunting": {
+        "texture": ["smooth clean feather blocks", "crisp color separation between the chest and belly", "soft songbird texture"],
+        "color": ["brilliant azure or turquoise blue head and back", "rich pumpkin-orange or rusty-red chest", "crisp pure white belly", "distinct white wing bar or stripe"],
+        "shape": ["small stocky songbird", "short thick cone-shaped beak", "looks like a miniature bluebird wearing an orange vest", "round head and plump belly"]
+    },
+    "Painted_Bunting": {
+        "texture": ["intensely saturated soft feathers", "looks almost painted or artificial", "smooth blending of extreme colors"],
+        "color": ["vibrant neon-like colors", "dark purplish-blue head", "lime green back", "bright glowing red chest and belly", "red eye ring", "looks like a flying rainbow or a child's coloring book bird"],
+        "shape": ["small chunky finch", "short stout seed-cracking beak", "round body", "relatively short tail", "stubby profile"]
+    },
+    "Cardinal": {
+        "texture": ["soft velvety feathers", "prominent raised fluffy crest", "smooth unbroken red color patches"],
+        "color": ["striking brilliant fiery red overall", "deep black mask surrounding the eyes and beak", "bright reddish-orange beak", "dull red or brownish tint on the primary wing feathers"],
+        "shape": ["tall pointed crest on top of the head resembling a spiked helmet", "thick heavy triangular beak", "long straight tail", "upright confident and alert posture"]
+    },
+    "Spotted_Catbird": {
+        "texture": ["mottled and heavily spotted chest feathers", "smooth glossy green back", "slightly scalloped visual effect on the belly"],
+        "color": ["rich emerald or leaf green back and wings", "pale green or whitish belly covered in distinct dark green or blackish spots", "dark reddish or brown eye", "pale beak"],
+        "shape": ["chunky heavy-set bird", "thick pale beak", "strong sturdy legs", "large round head", "stout and robust body shape"]
+    },
+    "Gray_Catbird": {
+        "texture": ["very smooth untextured appearance", "sleek matte plumage", "soft velvet-like overall look without any streaks"],
+        "color": ["uniform slate-grey body", "neat contrasting black cap on the very top of the head", "hidden rusty-red or chestnut patch under the base of the tail", "dark black eyes and beak"],
+        "shape": ["slender and graceful songbird", "relatively long tail often held cocked upward or flicking", "thin straight black beak", "smooth rounded head profile"]
+    },
+    "Yellow_breasted_Chat": {
+        "texture": ["smooth songbird feathers", "thick bulky neck plumage", "clear sharp facial markings"],
+        "color": ["bright sunshine-yellow throat and chest", "olive-green back, wings, and top of the head", "stark white belly", "distinct thick white rings around the eyes looking like bright spectacles", "white line above the beak"],
+        "shape": ["bulky and unusually large warbler", "heavy thick slightly curved black beak", "large round head", "relatively long tail", "chunky and front-heavy appearance"]
+    },
+    "Eastern_Towhee": {
+        "texture": ["smooth soft songbird feathers", "clean separated feather tracts", "fluffy underbelly"],
+        "color": ["stark jet-black hood and back (in males) or warm brown (in females)", "striking rich rusty-orange or chestnut flanks", "pure clean white belly", "piercing deep red eyes"],
+        "shape": ["plump and chunky sparrow-like body", "thick short triangular beak for cracking seeds", "long rounded tail with white corners visible in flight", "often seen in a scratching posture on the ground"]
+    },
+    "Chuck_will_Widow": {
+        "texture": ["extremely cryptic bark-like texture", "soft fluffy owl-like plumage for silent flight", "mottled and marbled dead-leaf appearance", "looks completely like a piece of dead wood or leaf litter"],
+        "color": ["intricate mix of rich brown, buff, black, and grey", "perfect earthy camouflage pattern", "dark blackish eyes mixing into the feathers"],
+        "shape": ["very flat horizontal resting posture on the ground or branches", "massive unusually wide but short frog-like mouth", "flat large head", "long rounded wings and tail", "almost invisible tiny legs"]
+    },
+    "Brandt_Cormorant": {
+        "texture": ["sleek waterproof body", "slightly scaly looking back feathers", "long bristly white plumes on the sides of the head during breeding season"],
+        "color": ["mostly black or dark sooty brown overall", "striking bright cobalt blue throat pouch during breeding", "pale buff or brownish patch around the base of the beak", "dark legs and feet"],
+        "shape": ["heavy thick neck", "long hooked beak pointing slightly upward", "upright standing posture like a heavy dark bottle", "often stands with wings spread completely open like a black cape to dry", "large webbed feet"]
+    },
+    "Red_faced_Cormorant": {
+        "texture": ["glossy shiny plumage", "bare rubbery skin on the face", "smooth waterproof coat"],
+        "color": ["metallic black body with greenish or bluish gloss", "striking bright fiery red bare skin surrounding the eyes and base of the bill", "pale greyish or yellowish beak", "blue eyes"],
+        "shape": ["long sinuous snake-like neck", "strongly hooked sharply pointed bill", "distinctive raised double crest on the head looking like two horns", "slender aerodynamic body"]
+    },
+    "Pelagic_Cormorant": {
+        "texture": ["highly reflective metallic surface", "tight sleek aerodynamic feathers", "smooth unruffled appearance"],
+        "color": ["deep black with brilliant flashing green and purple iridescence in sunlight", "dull red bare skin on the face", "stark flashing white patches on the flanks/thighs visible in flight or breeding", "dark thin beak"],
+        "shape": ["the thinnest and smallest of the cormorants", "extremely thin pencil-like neck", "tiny round head", "very thin needle-like hooked bill", "sleek slender torpedo-like profile"]
+    },
+    "Bronzed_Cowbird": {
+        "texture": ["smooth but thick and heavy appearance", "stiff looking ruff of feathers standing up on the back of the neck", "polished metallic sheen"],
+        "color": ["solid black overall with a strong bronze, brassy, or dark coppery metallic reflection", "striking piercing blood-red eyes standing out sharply against the dark face"],
+        "shape": ["bulky and front-heavy", "thick bulky neck making it look like it has no neck at all", "heavy long straight black beak", "often puffs out its feathers making it look completely round"]
+    },
+    "Shiny_Cowbird": {
+        "texture": ["highly reflective and glossy", "smooth slick appearance", "velvety unstreaked coat"],
+        "color": ["glossy deep purplish-black or blue-black body in males", "dull greyish-brown without streaks in females", "dark black eyes (unlike the bronzed cowbird)", "black beak and legs"],
+        "shape": ["slender elegant blackbird shape", "sharp pointed cone-shaped beak", "slightly rounded tail", "smooth normal-proportioned neck and head"]
+    },
+    "Brown_Creeper": {
+        "texture": ["highly mottled and streaky bark-like texture", "stiff rigid tail feathers acting as a kickstand", "rough visual pattern"],
+        "color": ["streaked mixture of brown, grey, buff, and white perfectly matching tree bark", "pure crisp white underbelly and throat", "faint pale line above the eye"],
+        "shape": ["tiny slender bird", "thin long elegantly down-curved beak looking like a crescent", "pressed completely flat vertically against tree trunks", "stiff sharp tail pointing straight down against the wood"]
+    },
+    "American_Crow": {
+        "texture": ["smooth somewhat iridescent plumage", "slightly scaly or overlapping visual effect on the neck and chest", "stiff prominent wing and tail feathers", "bristly hairs covering the base of the beak"],
+        "color": ["completely solid pitch black from beak to tail", "dark black eyes", "black legs and feet", "subtle purplish or bluish sheen in strong sunlight"],
+        "shape": ["large robust and sturdy body", "thick strong straight black beak", "broad rounded wings", "fan-shaped or squared-off tail in flight", "confident walking posture on the ground"]
+    },
+    "Fish_Crow": {
+        "texture": ["smooth sleek dark feathers", "glossy appearance", "stiff flight feathers", "visually almost completely identical to the American Crow"],
+        "color": ["solid jet black overall", "shiny black beak and legs", "dark eyes", "rich metallic sheen when seen up close"],
+        "shape": ["medium to large robust body", "relatively thinner and slightly smaller beak compared to American Crow", "slightly longer tail and faster wingbeats in flight", "sturdy blackbird-like silhouette"]
+    },
+    "Black_billed_Cuckoo": {
+        "texture": ["smooth unstreaked plumage", "sleek graceful appearance", "soft blending of colors on the back"],
+        "color": ["warm greyish-brown back", "pure white belly", "entirely solid black beak", "distinct bright red ring around the eye", "tiny faint white spots on the underside of the tail"],
+        "shape": ["slender and elongated body", "very long curved tail", "slightly downcurved beak", "stealthy crouching posture"]
+    },
+    "Mangrove_Cuckoo": {
+        "texture": ["smooth songbird coat", "soft unbroken color blocks", "clean facial markings"],
+        "color": ["rich buff, peach, or pale orange wash on the belly", "stark black raccoon-like mask running through the eye", "yellowish lower jaw of the beak", "brownish-grey back"],
+        "shape": ["long slender body", "long tail with large white thumb-like spots underneath", "thick slightly curved bill", "elegant horizontal posture"]
+    },
+    "Yellow_billed_Cuckoo": {
+        "texture": ["smooth aerodynamic feathers", "clean white underparts", "distinct sharp spots on the tail"],
+        "color": ["bright yellow lower half of the beak", "rich rufous or reddish-brown flashing patches on the wings", "crisp dark tail contrasting with huge stark white circular spots", "brown back"],
+        "shape": ["slender snake-like neck and body", "very long tail", "stout curved beak", "sleek profile often hidden in dense foliage"]
+    },
+    "Gray_crowned_Rosy_Finch": {
+        "texture": ["soft fluffy winter plumage", "smooth gradient transitions", "slightly mottled or frosty look on the head"],
+        "color": ["warm dark chocolate-brown body", "striking soft pink or rosy-red wash painted across the wings and lower belly", "silvery-grey patch wrapping around the back of the head", "black forehead"],
+        "shape": ["chunky heavy-set finch", "thick short conical beak for cracking seeds", "plump round belly", "sturdy thick legs"]
+    },
+    "Purple_Finch": {
+        "texture": ["soft heavily streaked feathers on females", "smooth washed-out color blending on males", "fluffy thick neck"],
+        "color": ["looks exactly like a brown bird heavily dipped in raspberry juice", "rich rosy-red or purplish-red head, chest, and back", "brownish wings", "stark white belly (in males)", "heavily brown-and-white streaked (in females)"],
+        "shape": ["stocky and robust body", "massive thick triangular seed-cracking beak", "short slightly notched tail", "large rounded head"]
+    },
+    "Northern_Flicker": {
+        "texture": ["stiff woodpecker tail feathers", "boldly patterned and heavily spotted chest", "horizontal barred texture on the back"],
+        "color": ["warm tan or brownish back covered in thin black horizontal tiger stripes", "stark black crescent-shaped necklace or bib on the upper chest", "belly covered in sharp black polka dots", "flashing bright yellow or salmon-red shafts on the underside of the wings visible in flight"],
+        "shape": ["large chunky woodpecker", "long slightly curved pointy beak", "often seen feeding on the ground like a pigeon", "stiff upright posture against tree trunks"]
+    },
+    "Acadian_Flycatcher": {
+        "texture": ["smooth unstreaked back", "faintly soft blurry underparts", "crisp clean lines on the wings"],
+        "color": ["uniform olive-greenish back", "pale yellowish or whitish wash on the belly", "two distinct stark white horizontal wing bars", "faint pale ring around the eye"],
+        "shape": ["small compact songbird", "relatively broad flat beak with a pale lower half", "peaked or slightly angular shape to the back of the head", "long primary wing feathers extending far down the tail"]
+    },
+    "Great_Crested_Flycatcher": {
+        "texture": ["soft plumage", "slightly bushy or tufted head feathers", "smooth bold color blocking"],
+        "color": ["bright vibrant lemon-yellow belly", "stark contrast with a dark ash-grey throat and chest", "rich rust-colored or cinnamon-red tail and wing edges", "olive-brown back"],
+        "shape": ["large robust flycatcher", "bushy slight crest on the top of the head making it look top-heavy", "thick heavy beak", "upright alert perching posture"]
+    },
+    "Least_Flycatcher": {
+        "texture": ["soft greyish coat", "neat and compact feathering", "sharp clean facial markings"],
+        "color": ["dull greyish-olive back", "pale whitish belly", "prominent bold white eye-ring looking almost like thick glasses", "two sharp white wing bars", "dark upper beak and pale lower beak"],
+        "shape": ["extremely tiny and compact body", "large rounded head completely lacking a crest", "short tail", "short stubby beak", "looks like a cute miniature grey bird"]
+    },
+    "Olive_sided_Flycatcher": {
+        "texture": ["smooth but somewhat shaggy looking feathers", "clear division of color zones", "stiff upright posture"],
+        "color": ["dark greyish-olive back and sides", "stark white stripe running straight down the middle of the chest and belly", "looks exactly like a bird wearing an unbuttoned dark vest over a white shirt"],
+        "shape": ["chunky front-heavy bird", "large blocky head", "relatively short tail", "very stout heavy beak", "perches rigidly at the very top tip of tall dead trees"]
+    },
+    "Scissor_tailed_Flycatcher": {
+        "texture": ["smooth soft plumage", "extremely long flowing and flexible tail feathers", "sleek aerodynamic build"],
+        "color": ["pale pearly grey or almost white head and back", "striking salmon-pink or soft reddish-pink patches under the wings and on the flanks", "dark blackish wings and tail feathers with white edges"],
+        "shape": ["tiny songbird body attached to a comically long deeply forked tail", "tail looks exactly like a pair of open scissors in flight", "slender elegant profile", "small dark beak"]
+    },
+    "Vermilion_Flycatcher": {
+        "texture": ["fluffy slightly puffy head crest", "smooth and vibrantly saturated belly feathers", "soft velvet-like visual texture"],
+        "color": ["blindingly bright neon red or glowing vermilion belly and top of the head", "dark sooty brown or blackish mask running through the eyes and across the back", "dark beak and legs"],
+        "shape": ["small plump round songbird", "slightly puffy round head making it look like it has a red helmet", "short dark beak", "upright perching posture"]
+    },
+    "Yellow_bellied_Flycatcher": {
+        "texture": ["soft unstreaked feathers", "neat and crisp wing bars", "smooth blending of green and yellow"],
+        "color": ["olive-green back and head", "distinct yellowish wash covering the entire belly and throat", "prominent pale yellowish or white eye-ring", "two stark white horizontal stripes on the wings"],
+        "shape": ["small compact songbird", "relatively large head compared to its body", "short broad flat beak", "looks like a cute round fluffy ball"]
+    },
+    "Frigatebird": {
+        "texture": ["sleek tight waterproof feathers", "glossy sheen on the black back", "leathery and wrinkly bare skin on the throat pouch when deflated"],
+        "color": ["completely solid black body", "giant intensely bright red inflated balloon-like throat pouch (in males)", "dark grey or whitish beak"],
+        "shape": ["giant balloon-like inflated pouch under the chin", "deeply forked tail looking like a pair of open scissors", "huge pointed angular wings resembling a pterodactyl or a kite", "long grey fiercely hooked beak"]
+    },
+    "Northern_Fulmar": {
+        "texture": ["dense stiff seabird feathers", "smooth and highly waterproof coat", "sturdy and solid appearance"],
+        "color": ["mostly pale grey back and white belly (light morph) or entirely uniform smoky grey (dark morph)", "pale yellowish beak", "dark smudge around the eye"],
+        "shape": ["looks like a heavily built bulky seagull", "thick muscular bull-like neck", "stubby beak with a distinct tube structure sitting on top for salt excretion", "stiff-winged rigid flying posture"]
+    },
+    "Gadwall": {
+        "texture": ["finely scalloped or wavy patterned feathers on the chest looking like fine tweed cloth", "smooth unpatterned head", "crisp clean feathers on the wings"],
+        "color": ["subtle understated grey-brown mottled body", "stark jet-black rear end", "distinctive small crisp white square patch on the back edge of the wing visible in flight", "black beak"],
+        "shape": ["medium-sized dabbling duck", "rounded head with a steep vertical forehead", "flat broad dark beak", "heavy boat-shaped body floating on water"]
+    },
+    "American_Goldfinch": {
+        "texture": ["smooth sleek summer plumage", "neat clean horizontal lines on the wings", "unstreaked solid body feathers"],
+        "color": ["brilliant electric yellow body", "stark jet-black cap sitting strictly on the forehead", "jet-black wings with stark white horizontal stripes", "white patches under the tail"],
+        "shape": ["small energetic finch", "tiny pointed conical orange beak for cracking seeds", "deeply notched or forked short tail", "plump round belly"]
+    },
+    "European_Goldfinch": {
+        "texture": ["smooth multi-colored plumage", "clean and sharply defined geometric color blocks", "soft songbird back"],
+        "color": ["striking bright blood-red mask covering the front of the face", "black and white contrasting head patterning", "warm sandy brown back and chest", "black wings featuring a brilliant broad golden-yellow stripe"],
+        "shape": ["small stout finch", "sharp pointed pale ivory beak", "compact round body", "distinctive clown-like or painted facial pattern"]
+    },
+    "Boat_tailed_Grackle": {
+        "texture": ["highly glossy and reflective metallic surface", "stiff rigid huge tail feathers", "smooth unruffled coat"],
+        "color": ["deep pitch black with intense iridescent glossy purplish-blue and green reflections", "piercing bright yellow or dark brown eyes", "solid black heavy beak"],
+        "shape": ["very large lanky and awkward-looking blackbird", "massive incredibly long tail shaped like the keel of a boat (folded in a V-shape)", "extremely long sturdy legs", "heavy pointed beak", "often holds its massive tail high in the air"]
+    },
+    "Eared_Grebe": {
+        "texture": ["fluffy and slightly spiky head feathers", "smooth dense waterproof body sitting low in the water", "wispy hair-like ear tufts"],
+        "color": ["solid black head and neck", "striking glowing golden-yellow tufts of feathers fanning out behind the eye", "piercing glowing red eye", "dark brownish-grey back"],
+        "shape": ["small floating waterbird", "looks like it has no tail at all", "steep high forehead with a slightly upturned thin pointed beak", "golden ear tufts fan out like a glowing triangular fan on the side of the head"]
+    },
+    "Horned_Grebe": {
+        "texture": ["smooth dense waterproof plumage", "fluffy puffed-out cheeks", "stiff swept-back facial tufts"],
+        "color": ["rich chestnut or rusty-red neck and flanks", "dark black head", "glowing neon red eye", "striking golden-yellow feathered horns sweeping back from the eye like fiery racing stripes"],
+        "shape": ["small compact waterbird", "straight pointed black beak", "looks like it has no tail", "distinctive flat-topped head due to the glowing yellow tufts", "rides very low in the water"]
+    },
+    "Pied_billed_Grebe": {
+        "texture": ["fluffy powder-puff rear end", "smooth blocky feathering on the head", "dense brown waterproof coat"],
+        "color": ["drab uniform brownish-grey body", "stark white beak", "distinct thick vertical pitch-black stripe running right down the middle of the beak like a barcode", "stark white under the tail"],
+        "shape": ["chunky block-like head", "very stout short thick beak", "plump chicken-like body floating on water", "almost completely tailless", "round and compact silhouette"]
+    },
+    "Western_Grebe": {
+        "texture": ["sleek velvet-like black back", "glistening white silky neck", "highly streamlined aerodynamic wet look"],
+        "color": ["stark tuxedo-like division of black and white", "pure white throat and chest", "pitch black cap extending below the glowing red eye", "long bright dull-yellow beak"],
+        "shape": ["elegant extraordinarily long swan-like neck", "long straight spear-like pointed beak", "slender and graceful body profile", "flat angular head shape"]
+    },
+    "Blue_Grosbeak": {
+        "texture": ["smooth soft songbird feathers", "solid unstreaked back", "thick heavy facial feathering around the beak"],
+        "color": ["deep rich indigo or navy blue overall body", "stark contrasting chestnut or rusty-brown wing bars looking like brown shoulder pads", "large silver-grey beak", "blackish mask covering the area between the eye and the beak"],
+        "shape": ["chunky and robust songbird", "massive conical heavy beak specialized for crushing seeds", "large heavy head", "relatively long tail", "thick-necked appearance"]
+    },
+    "Evening_Grosbeak": {
+        "texture": ["crisp clean geometric color patches", "smooth unstreaked plumage", "stiff prominent wing feathers"],
+        "color": ["striking bright yellow forehead forming a glowing unibrow or headband", "rich mustard-yellow body", "stark black wings featuring a massive contrasting white patch", "huge pale bone-colored or greenish-yellow beak"],
+        "shape": ["very bulky front-heavy finch", "comically huge swollen conical beak", "thick short neck", "short slightly notched tail", "stocky wide-shouldered stance"]
+    },
+    "Pine_Grosbeak": {
+        "texture": ["soft fluffy winter coat", "slightly mottled or frosty gradient texture", "neat clear wing bars"],
+        "color": ["soft rosy-red or pinkish-red wash over a dark grey base (in males)", "warm mustard yellow or russet-orange on the head (in females)", "dark greyish-black wings with two crisp white horizontal lines", "dark stubby beak"],
+        "shape": ["large plump round-bellied finch", "thick stubby rounded beak", "relatively long tail", "looks like a chunky oversized round sparrow"]
+    },
+    "Rose_breasted_Grosbeak": {
+        "texture": ["smooth high-contrast plumage", "crisp division between white and red", "sleek songbird back"],
+        "color": ["pitch black head, throat, and back", "pure white belly", "brilliant striking blood-red triangular patch on the chest resembling a bleeding heart or a spilled drop of red paint", "huge pale horn-colored beak"],
+        "shape": ["chunky heavy-set body", "massive thick triangular beak", "large head", "prominent white patches on the wings visible when flying"]
+    },
+    "Pigeon_Guillemot": {
+        "texture": ["dense smooth seabird feathers", "highly waterproof sleek coat", "stark bold feather blocks"],
+        "color": ["entirely solid coal-black body", "blazing stark white oval patches on the wings with a distinct black wedge cutting into the white", "bright neon red legs and feet", "bright red inside the mouth when open"],
+        "shape": ["plump duck-like body", "slender straight pointed black beak", "looks like a dark torpedo with white racing stripes on the side", "upright posture on land"]
+    },
+    "California_Gull": {
+        "texture": ["smooth grey mantle", "crisp clean white breast feathers", "stiff unblemished wingtips"],
+        "color": ["medium grey back and upper wings", "pure white head and belly", "yellow beak featuring both a red spot and a black spot near the lower tip", "distinctive bright yellowish-green legs", "dark black wingtips with tiny white spots"],
+        "shape": ["medium-sized classic seagull shape", "rounded head", "relatively long slender wings projecting past the tail when resting", "slender beak compared to larger gulls"]
+    },
+    "Glaucous_winged_Gull": {
+        "texture": ["soft heavily feathered bulky body", "smooth frosty grey appearance", "dense coastal seabird coat"],
+        "color": ["pale frosty grey back and wings", "wingtips are the exact same pale grey as the back, completely lacking the typical black tips found on most gulls", "pure white head", "pink legs", "thick yellow beak with a prominent red spot"],
+        "shape": ["huge bulky heavy-chested gull", "large heavy blocky head", "thick powerful beak with a distinct bulbous tip", "looks muscular and heavy-set"]
+    },
+    "Heermann_Gull": {
+        "texture": ["smooth dark plumage", "sleek non-reflective seabird coat", "soft transition between head and neck"],
+        "color": ["looks like a photographic negative of a normal seagull", "stark white head fading into a dark sooty-grey body", "striking bright red beak with a distinct black tip", "black legs"],
+        "shape": ["medium-sized elegant gull", "rounded head", "sleek profile", "relatively slender red beak"]
+    },
+    "Herring_Gull": {
+        "texture": ["crisp clean feathering", "pale frosty mantle", "smooth unbroken white breast feathers"],
+        "color": ["light pale-grey back and upper wings", "pure white head and belly", "pale pink legs", "heavy yellow beak with a prominent single red dot on the lower jaw", "black wingtips with stark white spots"],
+        "shape": ["large robust and aggressive-looking seabird", "heavy thick bill", "flat forehead giving a fierce expression", "long pointed wings crossing over the tail"]
+    },
+    "Ivory_Gull": {
+        "texture": ["pristine flawless snow-like plumage", "immaculate and completely unmarked coat", "soft pigeon-like feathering"],
+        "color": ["completely blazing pure white all over", "lacks any grey or black on the back or wingtips", "pitch black legs creating a stark dark contrast against the snow-white body", "dark piercing eye", "pale blue-grey beak with a yellow and red tip"],
+        "shape": ["plump pigeon-like seabird", "short legs", "very round plump head", "looks almost like a white dove but with a gull's beak"]
+    },
+    "Ring_billed_Gull": {
+        "texture": ["smooth grey and white feathering", "neat unblemished flight feathers", "clean sleek neckline"],
+        "color": ["pale grey back", "pure white head and body", "bright yellow legs", "striking thick black ring wrapping completely around the bright yellow beak like a barcode or rubber band"],
+        "shape": ["medium-sized nimble gull", "relatively thin and short beak compared to larger gulls", "elegant light posture", "slender neck"]
+    },
+    "Slaty_backed_Gull": {
+        "texture": ["dark heavily contrasting mantle", "broad white trailing edges on the wings", "bulky dense seabird coat"],
+        "color": ["dark slate-grey or deep charcoal-grey back", "stark white head and belly creating extreme contrast", "bright pink legs", "thick yellow bill with a red spot", "broad white line along the back edge of the wing visible in flight"],
+        "shape": ["heavy sturdy body", "broad wide wings", "fierce bulky appearance", "thick strong neck"]
+    },
+    "Western_Gull": {
+        "texture": ["smooth dark mantle", "crisp dense white underparts", "sturdy waterproof appearance"],
+        "color": ["very dark lead-grey back and upper wings", "pure white body and head", "pink legs", "large bright yellow beak with a huge swollen red spot near the lower tip", "dark black wingtips"],
+        "shape": ["massive bulky dominant-looking seagull", "huge heavy bulbous beak that looks oversized", "large thick blocky head", "looks very front-heavy and muscular"]
+    },
+    "Anna_Hummingbird": {
+        "texture": ["metallic shimmering scales", "iridescent glowing feathers that change in the light", "smooth tight body plumage", "blurry wings from rapid hovering"],
+        "color": ["brilliant metallic rose-pink or glowing magenta covering the ENTIRE head and throat like a glowing colored helmet", "emerald green back", "pale greyish-green belly"],
+        "shape": ["tiny hovering jewel-like bird", "straight needle-like dark beak", "plump little body", "often seen hovering motionless in mid-air"]
+    },
+    "Ruby_throated_Hummingbird": {
+        "texture": ["sparkling metallic sheen", "smooth tight overlapping feathers", "glistening throat patch catching the sunlight"],
+        "color": ["bright emerald or grass green back", "striking blazing ruby-red throat patch (gorget)", "stark white collar and chest contrasting with the red throat", "dark wings"],
+        "shape": ["tiny delicate bird", "extremely long thin straight needle-like beak", "deeply forked thin tail", "teardrop-shaped body when hovering"]
+    },
+    "Rufous_Hummingbird": {
+        "texture": ["metallic coppery sheen", "smooth and fiery appearance", "highly reflective warm-toned feathers"],
+        "color": ["looks exactly like a flying shiny copper penny", "glowing rusty-orange or bright copper color completely covering the back and belly", "blazing iridescent fiery-orange or red throat that flashes like fire"],
+        "shape": ["tiny but aggressive-looking hummingbird", "relatively short straight dark beak", "tail feathers tapering to a sharp point", "compact chunky tiny body"]
+    },
+    "Green_Violetear": {
+        "texture": ["glittering and sparkling metallic texture", "sharply defined glowing color patches", "smooth aerodynamic belly"],
+        "color": ["brilliant grass-green or deep emerald overall body covering both back and belly", "striking deep violet-blue sparkling patches on the cheeks (ears) and the center of the chest", "dark beak"],
+        "shape": ["relatively large and sturdy hummingbird", "slightly downcurved black beak", "often fans out its tail when hovering", "robust broad-chested profile"]
+    },
+    "Long_tailed_Jaeger": {
+        "texture": ["smooth aerodynamic seabird coat", "sleek falcon-like wings", "soft unstreaked white belly"],
+        "color": ["dark greyish-brown back", "stark white chest", "neat black cap covering the top of the head", "faint pale yellowish wash on the sides of the neck"],
+        "shape": ["sleek raptor-like seagull", "extremely long flexible needle-like central tail feathers extending far beyond the rest of the tail", "pointed swept-back wings", "slender and elegant profile"]
+    },
+    "Pomarine_Jaeger": {
+        "texture": ["bulky dense waterproof plumage", "smooth chest but heavy-set appearance", "stiff rigid wing feathers"],
+        "color": ["dark brown back", "white chest heavily marked with a distinct dark brown band across the breast", "dark cap extending below the eye like a helmet"],
+        "shape": ["thick barrel-chested seabird", "central tail feathers are twisted and blunt, looking exactly like two spoons sticking out of the back", "heavy thick hooked beak", "broad powerful wings", "muscular and aggressive build"]
+    },
+    "Blue_Jay": {
+        "texture": ["smooth overlapping feathers with distinct geometric blocks", "prominent raised head crest", "clean grid-like barring on the wings"],
+        "color": ["brilliant azure or cobalt blue back", "stark white belly", "bold black necklace completely sweeping across the throat and wrapping around the head", "stark white spots on the blue wings with black grid lines"],
+        "shape": ["sturdy medium-sized songbird", "prominent pointed crest sitting on the head like a blue crown or a spiked hat", "strong straight black beak", "long tail"]
+    },
+    "Florida_Jay": {
+        "texture": ["soft completely smooth uncrested head", "smooth songbird coat", "slightly dusty or matte appearance lacking extreme shine"],
+        "color": ["pale silvery-grey back and belly", "dull blue or washed-out blue head, wings, and tail", "faint diffuse blue necklace on the chest", "completely lacks the white wing spots and black markings of the Blue Jay"],
+        "shape": ["round smooth head completely lacking any crest", "long floppy tail", "sturdy heavy beak", "upright confident stance on scrub branches"]
+    },
+    "Green_Jay": {
+        "texture": ["vibrant soft plumage", "bold geometric facial patterns", "clean stark separation of bright colors"],
+        "color": ["brilliant emerald green back", "bright neon yellow belly and outer tail feathers", "rich blue patch on the very top of the head", "jet-black throat and face mask", "looks like a flying tropical fruit"],
+        "shape": ["sturdy medium-sized bird", "smooth rounded head completely lacking a crest", "thick short black beak", "relatively long tail", "looks almost like a tropical parrot but shaped like a jay"]
+    },
+    "Dark_eyed_Junco": {
+        "texture": ["smooth fluffy winter plumage", "stark razor-sharp division of color blocks", "neat compact feathering"],
+        "color": ["solid slate-grey or dark brownish-grey hood covering the entire head and chest like a dark cowl or an executioner's mask", "crisp pure white belly", "pale fleshy-pink or bone-colored beak", "striking white outer tail feathers that flash brightly when flying"],
+        "shape": ["small plump rounded sparrow", "tiny conical pink seed-cracking beak", "looks like a perfectly round little dark ball sitting on the snowy ground", "short neck"]
+    },
+    "Tropical_Kingbird": {
+        "texture": ["soft smooth breast feathers", "sleek wing profile", "slightly ragged or worn-looking tail tip"],
+        "color": ["brilliant lemon-yellow or fluorescent yellow belly", "pale ash-grey head", "dark brownish-grey back and wings", "dark dusky mask running horizontally through the eye"],
+        "shape": ["large upright flycatcher", "heavy thick black beak", "distinctly notched or slightly forked long tail", "alert stiff upright perching posture usually seen on open wires"]
+    },
+    "Gray_Kingbird": {
+        "texture": ["smooth unpatterned plumage", "matte grey finish", "clean soft white breast"],
+        "color": ["pale silvery-grey back and head", "pure pristine white belly", "distinct dark black robber's mask running directly through the eye"],
+        "shape": ["large hefty and bulky flycatcher", "massive oversized thick black beak looking almost disproportionately large for its head", "distinctly notched tail", "thick strong neck"]
+    },
+    "Belted_Kingfisher": {
+        "texture": ["shaggy messy double-pointed crest", "stiff rigid wing feathers", "smooth stark white collar"],
+        "color": ["slate blue-grey back and head", "stark pure white belly and thick neck collar", "distinct broad blue-grey horizontal band across the chest", "females feature an additional lower rusty-red band"],
+        "shape": ["extremely top-heavy bird with an oversized massive head", "huge dagger-like heavy straight beak", "tiny stubby almost invisible legs", "very short stubby tail", "shaggy messy crest pointing straight back like spiked hair"]
+    },
+    "Green_Kingfisher": {
+        "texture": ["glossy sleek upperparts", "densely spotted wings looking like scattered salt", "soft speckled belly"],
+        "color": ["dark oily emerald-green back", "stark white thick collar around the neck", "dark green wings covered in tiny stark white dots", "broad solid rusty-red chest band (in males) or green speckled chest (in females)"],
+        "shape": ["tiny but top-heavy bird", "extremely long disproportionately large dagger-like black beak", "very short stubby tail", "sleek aerodynamic rounded head completely lacking a prominent shaggy crest"]
+    },
+    "Pied_Kingfisher": {
+        "texture": ["highly contrasting geometric patterns", "ragged and spiky crest feathers", "smooth unstreaked white belly"],
+        "color": ["stark zebra-like black and white stripes and speckles all over the body", "solid black dagger-like beak", "crisp black mask extending backward from the eye", "double black band across the white chest (in males)"],
+        "shape": ["top-heavy profile with a large head", "long heavy dagger-like straight beak", "spiky feather crest pointing straight back from the head", "often seen hovering vertically in mid-air with completely downward-pointing beak"]
+    },
+    "Ringed_Kingfisher": {
+        "texture": ["shaggy prominent crest", "smooth soft belly plumage", "sleek aerodynamic wing feathers"],
+        "color": ["slate blue-grey back and head", "rich deep rusty-red or chestnut belly and chest", "stark white thick collar ring wrapping completely around the neck", "massive black and pale horn-colored beak"],
+        "shape": ["huge oversized head looking disproportionate to the body", "massive thick heavy straight beak", "chunky and heavy-set body", "shaggy messy crest making the head look even larger"]
+    },
+    "White_breasted_Kingfisher": {
+        "texture": ["extremely smooth and vibrant color blocks", "glossy and almost glowing back", "velvety soft head"],
+        "color": ["brilliant neon electric-blue back and wings", "rich chocolate-brown head and flanks", "stark contrasting pure white throat and upper chest", "huge glowing bright red beak and legs"],
+        "shape": ["bulky medium-sized kingfisher", "massive thick bright red beak shaped like a heavy dagger", "upright perching posture", "large thick neck and head"]
+    },
+    "Red_legged_Kittiwake": {
+        "texture": ["smooth soft seabird coat", "pristine unbroken white breast", "sleek unstreaked mantle"],
+        "color": ["pale frosty grey back and wings", "pure white head and belly", "striking bright neon-red or coral-red legs and feet", "tiny yellow beak", "completely dark black eyes standing out like a small dot on the white face"],
+        "shape": ["small and delicate-looking seagull", "very round plump head", "relatively short dark legs", "slender and short yellow beak"]
+    },
+    "Horned_Lark": {
+        "texture": ["dusty and sandy back blending perfectly with dirt", "smooth stark facial markings", "tiny stiff bristly feather tufts on the head"],
+        "color": ["sandy brown or earthy brown back", "pale yellow or white face", "striking dark black bandit mask running through the eyes", "bold black crescent-shaped bib on the chest"],
+        "shape": ["small plump ground-dwelling bird", "tiny black feather tufts sticking up from the sides of the head looking exactly like tiny devil horns", "tiny sharp pointed beak", "horizontal walking posture on bare ground"]
+    },
+    "Pacific_Loon": {
+        "texture": ["sleek velvet-like head and neck", "highly waterproof and completely smooth diving coat", "crisp checkerboard or grid pattern on the back"],
+        "color": ["silvery-grey soft head and back of the neck", "striking geometric black and white checkerboard or grid spots on the dark back", "black throat featuring extremely fine vertical white pinstripes"],
+        "shape": ["sleek submarine-like body floating very low in the water", "thick straight dagger-like beak", "thick strong neck", "streamlined torpedo-shaped profile"]
+    },
+    "Mallard": {
+        "texture": ["smooth highly waterproof coat", "iridescent glowing sheen on the head", "crisp layered feathering on the folded wing"],
+        "color": ["brilliant metallic bottle-green head (in males)", "bright yellow flat beak", "rich chestnut-brown chest separated from the head by a stark white collar ring", "greyish body with a blue wing patch"],
+        "shape": ["heavy round boat-like duck body", "flat broad spatula-like beak", "distinctive curly tail feathers curling rigidly upwards at the rear", "short orange webbed feet"]
+    },
+    "Western_Meadowlark": {
+        "texture": ["heavily streaked and mottled camouflage back", "smooth incredibly vibrant breast plumage", "stiff pointed tail feathers"],
+        "color": ["mottled brown, buff, and black back looking exactly like dry dead grass", "blindingly bright lemon-yellow throat and belly", "stark bold black V-shaped necklace cutting across the yellow chest"],
+        "shape": ["chunky heavy-bodied ground bird", "long sharply pointed straight beak", "very flat horizontal forehead", "often stands totally upright on wooden fence posts with its chest puffed out"]
+    },
+    "Hooded_Merganser": {
+        "texture": ["smooth dark waterproof body", "extremely dramatic collapsible feather crest", "sharp contrasting geometric lines"],
+        "color": ["stark black and white head", "massive brilliant white fan-shaped patch taking up most of the head bordered by dark black", "warm rusty-brown flanks", "stark black back with twin vertical white lines down the chest"],
+        "shape": ["small diving duck", "massive oversized collapsible crest that opens up like a huge flat fan or disc on the back of the head", "extremely thin needle-like straight beak", "compact round body"]
+    },
+    "Red_breasted_Merganser": {
+        "texture": ["wild spiky and ragged head crest", "smooth sleek diving body", "mottled and streaky chest"],
+        "color": ["dark glossy greenish-black head", "rich rusty-red and streaky chest", "stark broad white collar around the neck", "pale grey flanks", "bright red extremely thin beak"],
+        "shape": ["long sleek and elegant torpedo-like body", "extremely thin needle-like straight red beak", "wild spiky punk-rock style crest sticking straight out from the back of the head", "thin slender neck"]
+    },
+    "Mockingbird": {
+        "texture": ["smooth unassuming plumage", "matte grey finish", "clean unbroken breast feathers"],
+        "color": ["uniform pale slate-grey back", "whitish-grey belly", "flashing stark white wing bars and white outer tail feathers that act like bright visual signals", "pale yellow eyes"],
+        "shape": ["slender elegant songbird", "relatively long tail often held cocked upwards", "thin slightly curved black beak", "looks like a minimalist and elegant grey bird"]
+    },
+    "Nighthawk": {
+        "texture": ["highly cryptic tree-bark camouflage", "mottled and marbled grey-brown patterns", "soft owl-like aerodynamic feathers for silent flight"],
+        "color": ["intricate mix of grey, brown, and black blending perfectly with dead wood or rocky ground", "striking bright white vertical stripe across the long wings looking like a racing stripe visible in flight", "white V-shaped patch on the throat"],
+        "shape": ["long pointed swept-back wings resembling a falcon or a fighter jet", "tiny almost invisible beak hiding a massive frog-like wide mouth", "flat aerodynamic head", "tiny hidden legs"]
+    },
+    "Clark_Nutcracker": {
+        "texture": ["smooth soft body plumage", "sharp geometric color blocks on the wings", "sleek unstreaked coat"],
+        "color": ["pale ash-grey or silvery-grey overall body", "jet-black wings featuring a massive contrasting white patch", "stark white outer tail feathers", "dark black beak and legs"],
+        "shape": ["sturdy crow-like body but slightly smaller", "long heavy dagger-like straight pointed beak for cracking pine cones", "large head", "looks like a pale grey crow wearing black and white wingtips"]
+    },
+    "White_breasted_Nuthatch": {
+        "texture": ["sleek compact feathers", "crisp black cap", "fluffy rusty-colored feathers under the tail"],
+        "color": ["clean blue-grey back", "stark pure white face and breast", "pitch-black stripe over the very top of the head acting like a dark mohawk or hood", "rusty-red wash on the lower belly"],
+        "shape": ["looks completely neckless", "short stubby tail", "long straight slightly upturned needle-like beak", "often seen creeping vertically upside-down on tree trunks"]
+    },
+    "Baltimore_Oriole": {
+        "texture": ["smooth velvety dark hood", "intensely vibrant and glowing belly plumage", "crisp white lines on the wings"],
+        "color": ["classic Halloween color palette", "blazing fiery orange belly, chest, and rump", "solid jet-black head, back, and wings", "looks like a flying glowing ember or a bright orange flame with a black hood"],
+        "shape": ["medium-sized plump songbird", "sharp sharply pointed straight silver-grey beak", "sleek aerodynamic head", "upright perching posture"]
+    },
+    "Hooded_Oriole": {
+        "texture": ["soft smooth bright feathers", "neatly defined dark facial markings", "sleek wing profile"],
+        "color": ["brilliant warm yellow-orange or golden-yellow overall body", "black wings with white bars", "stark jet-black throat and face mask that looks exactly like a dark goatee or a tight black bib"],
+        "shape": ["slender elegant body", "relatively long tail", "thin distinctly downcurved beak", "slightly thinner and longer overall profile compared to other orioles"]
+    },
+    "Orchard_Oriole": {
+        "texture": ["dark velvety rich plumage", "matte finish rather than intensely glowing", "smooth division between black and red"],
+        "color": ["deep burnt-red, brick-red, or rich chestnut belly and rump (completely lacking the bright orange or yellow of other orioles)", "solid pitch-black head, throat, and upper back", "looks like a darker more muted cousin of the Baltimore Oriole"],
+        "shape": ["slightly smaller and more compact songbird", "short sharply pointed straight beak", "round head", "relatively short tail"]
+    },
+    "Scott_Oriole": {
+        "texture": ["high-contrast smooth feathers", "solid unbroken dark hood", "crisp bright colored patches"],
+        "color": ["striking bumblebee color palette", "brilliant neon lemon-yellow belly and rump", "jet-black head, chest, and back forming a heavy dark cowl that extends far down the chest", "bright yellow shoulder patch on the black wing"],
+        "shape": ["sturdy songbird body", "long sharply pointed straight beak", "heavy-chested appearance due to the extensive black bib", "sleek head profile"]
+    },
+    "Ovenbird": {
+        "texture": ["heavily streaked and spotted breast", "smooth olive back", "stiff upright tail posture"],
+        "color": ["drab olive-brown back and wings blending with the forest floor", "stark white belly heavily covered in bold blackish leopard-like spots and streaks", "distinct white ring around the eye", "two dark stripes on the top of the head hiding a bright orange center patch"],
+        "shape": ["plump round warbler", "looks like a miniature thrush", "often walks on the ground like a tiny chicken", "tail frequently cocked upwards", "pinkish sturdy legs"]
+    },
+    "Brown_Pelican": {
+        "texture": ["rough scaly leathery skin on the throat pouch", "shaggy fine spiky feathers on the back of the neck", "smooth flat tightly packed wing surface"],
+        "color": ["silvery-grey and brown streaked body", "white or pale yellowish head", "dark greenish-black or reddish throat pouch depending on the season", "reddish bare skin surrounding the pale eye"],
+        "shape": ["massive oversized comically long beak", "giant stretchy pouch hanging heavily from the lower jaw acting like a fishing net", "bulky heavy football-shaped body", "thick short neck heavily folded backward when resting"]
+    },
+    "White_Pelican": {
+        "texture": ["smooth snowy plumage", "large fleshy pouch texture", "stiff black flight feathers hidden when resting"],
+        "color": ["blazing pure white overall body", "massive bright orange or yellow bill and throat pouch", "stark jet-black wingtips that are only visible when the bird is flying", "pale fleshy eye ring"],
+        "shape": ["massive and heavy waterbird", "huge elongated bill with a giant stretchy scooping pouch", "distinctive flat vertical bump or 'horn' on the upper bill during breeding season", "looks like a floating white sailboat on the water"]
+    },
+    "Western_Wood_Pewee": {
+        "texture": ["smooth unassuming soft feathers", "matte unpatterned finish", "clean but slightly smudged-looking belly"],
+        "color": ["drab dark greyish-brown back", "dirty or smudgy pale grey belly", "lacks any strong white eye-ring", "faint and barely visible wing bars"],
+        "shape": ["small upright flycatcher", "very long wings that extend halfway down the tail when folded", "slightly peaked or ruffled feathers on the back of the head", "stiff vertical perching posture on dead branches"]
+    },
+    "Sayornis": {
+        "texture": ["soft smooth songbird coat", "clean unstreaked breast", "matte grayish finish"],
+        "color": ["dark sooty brownish-grey head and back", "pale off-white or very faint yellowish belly", "solid dark black beak", "dark head looks slightly darker than the rest of the back"],
+        "shape": ["plump medium-sized flycatcher", "slightly flat-topped or blocky head", "almost always photographed with its tail held downward or blurred from constantly pumping/wagging it up and down", "short dark beak"]
+    },
+    "American_Pipit": {
+        "texture": ["sleek slender ground-bird feathers", "fine streaky vertical lines on the chest", "smooth unpatterned back"],
+        "color": ["drab greyish-brown or warm buff back", "pale buff or pale yellowish-white belly with blurry dark streaks", "distinct white outer tail feathers that flash when it takes flight", "pale faint eyebrow line"],
+        "shape": ["slender elegant body", "unusually long dark legs built for walking", "thin needle-like straight beak for catching insects", "upright posture often seen walking continuously on the ground like a tiny chicken"]
+    },
+    "Whip_poor_Will": {
+        "texture": ["ultimate camouflage texture", "highly complex mottled and marbled patterns", "looks exactly like a pile of dry dead leaves or a piece of tree bark", "soft velvety owl-like feathers"],
+        "color": ["intricate mixture of ash-grey, black, and warm brown", "stark white crescent necklace across the lower throat", "dark blackish facial area hiding the eyes"],
+        "shape": ["extremely flat posture pressing its body completely against the ground or branch", "large round head with huge black eyes", "tiny invisible beak hiding a massive gaping mouth", "short rounded wings"]
+    },
+    "Horned_Puffin": {
+        "texture": ["sleek highly waterproof seabird coat", "fleshy rubbery texture on the brightly colored beak", "smooth stark white breast"],
+        "color": ["stark black back and pure white belly looking exactly like a tuxedo", "massive bright yellow beak with a striking red tip", "white cheeks", "distinctive small black fleshy horn-like spike sticking straight up above the eye", "neon orange webbed feet"],
+        "shape": ["chunky heavy potato-shaped body", "massive oversized triangular painted beak", "upright standing posture looking like a northern penguin", "large blocky head"]
+    },
+    "Common_Raven": {
+        "texture": ["glossy thick plumage", "very prominent shaggy and messy throat feathers (hackles) looking like a thick feathered beard", "sturdy robust feathers"],
+        "color": ["completely solid jet-black from the tip of the beak to the toes", "intense iridescent purplish or bluish metallic sheen when standing in direct sunlight", "dark black eyes"],
+        "shape": ["massive heavy-set crow-like bird", "huge thick and heavy black beak that looks somewhat curved at the tip", "distinctive wedge-shaped or diamond-shaped tail when seen flying", "thick muscular neck"]
+    },
+    "White_necked_Raven": {
+        "texture": ["smooth glossy black coat", "bristly hair-like feathers covering the base of the beak", "soft hidden fluffy neck base"],
+        "color": ["mostly solid pitch-black overall", "concealed stark white fluffy feathers at the base of the neck that only flash visibly when ruffled by the wind", "dark beak and legs"],
+        "shape": ["large robust corvid very similar to the Common Raven but slightly smaller", "heavy black beak", "flat broad head", "wedge-shaped tail", "sturdy walking posture on desert or dry plains ground"]
+    },
+    "American_Redstart": {
+        "texture": ["smooth soft warbler feathers", "high contrast separated color patches", "clean elegant lines"],
+        "color": ["classic Halloween color palette (in males)", "solid pitch-black head, back, and chest", "blazing glowing orange or fiery reddish-orange patches on the sides, wings, and tail", "females are olive-grey with bright lemon-yellow patches instead of orange"],
+        "shape": ["small extremely energetic warbler", "often photographed with its tail fanned wide open like a Spanish fan to show off its bright spots", "drooping wings", "tiny thin pointed beak"]
+    },
+    "Geococcyx": {
+        "texture": ["coarse shaggy and messy appearance", "heavily streaked camouflage texture", "rough scaly long bare legs", "loose ragged crest feathers"],
+        "color": ["mottled and heavily streaked sandy brown, black, and white", "striking bare patch of blue and bright red skin directly behind the eye", "pale streaky chest"],
+        "shape": ["looks exactly like a tiny feathered velociraptor", "comically long strong legs built for sprinting", "extremely long tail held parallel to the ground for balance", "bushy messy crest on the head", "heavy long pointed beak"]
+    },
+    "Loggerhead_Shrike": {
+        "texture": ["smooth soft grey plumage", "stiff contrasting flight feathers", "clean unbroken white belly"],
+        "color": ["slate grey back and head", "stark white chest", "bold thick black bandit mask running straight across the eyes and completely covering the forehead", "black wings with flashing white patches visible in flight"],
+        "shape": ["large blocky head looking almost disproportionately big", "thick strong black beak with a distinct raptor-like hook at the very tip", "horizontal alert perching posture often seen on barbed wire", "sturdy songbird body"]
+    },
+    "Great_Grey_Shrike": {
+        "texture": ["soft fluffy pale belly", "crisp sharp wing stripes", "sleek aerodynamic profile"],
+        "color": ["pale silvery-grey back", "narrow black eye mask that stops at the beak and does not cross over the beak", "white belly with very faint wavy horizontal lines (barring) visible up close", "black and white tail"],
+        "shape": ["slightly larger and longer-tailed than the Loggerhead Shrike", "distinctly hooked raptor-like beak", "upright standing silhouette", "large head"]
+    },
+    "Baird_Sparrow": {
+        "texture": ["heavily streaked back", "fine crisp vertical streaks on the chest", "smooth unstreaked belly"],
+        "color": ["warm golden-yellow or rich ochre wash painted over the entire face and top of the head", "dark necklace of short streaks across the upper chest", "warm brown and black mottled back blending with prairie grass"],
+        "shape": ["flat-topped head profile", "thick cone-shaped seed-cracking beak", "plump grassy-field body", "upright posture on grass stalks"]
+    },
+    "Black_throated_Sparrow": {
+        "texture": ["smooth unstreaked belly", "crisp high-contrast facial lines", "soft desert-colored back"],
+        "color": ["striking solid pitch-black triangular patch covering the entire throat and upper chest", "stark pure white racing stripes running directly above and below the eye", "warm brownish-grey or sandy-grey back", "looks like a tiny desert bird wearing a tuxedo"],
+        "shape": ["compact robust desert finch", "short dark conical beak", "upright confident posture on desert scrub or cactus", "round plump belly"]
+    },
+    "Brewer_Sparrow": {
+        "texture": ["extremely plain and drab appearance", "fine delicate sandy streaking on the back", "completely smooth unblemished and unstreaked chest"],
+        "color": ["dull sandy brown and pale grey overall", "faint pale white ring around the eye", "completely lacks any bold stripes, bright colors, or strong facial markings"],
+        "shape": ["tiny delicate sparrow", "relatively long notched tail", "small thin beak compared to other sparrows", "slim and slender profile"]
+    },
+    "Chipping_Sparrow": {
+        "texture": ["crisp geometric head patterns", "clean smooth grey breast lacking any streaks", "neatly arranged back feathers"],
+        "color": ["bright rusty-red or copper-colored cap completely covering the top of the head", "stark white eyebrow stripe", "solid sharp black line running straight through the eye to the back of the head", "clear ash-grey belly"],
+        "shape": ["small slender songbird", "slightly notched tail", "short dark conical seed-cracking beak", "compact and neat silhouette"]
+    },
+    "Clay_colored_Sparrow": {
+        "texture": ["finely etched delicate facial lines", "smooth unstreaked pale belly", "mottled pale back"],
+        "color": ["pale sandy or clay-brown overall wash", "distinctive pale brown cheek patch clearly outlined with thin dark borders", "stark pale greyish neck collar contrasting with the brown head", "clear white eyebrow"],
+        "shape": ["small compact sparrow", "slightly peaked or rounded head", "pale pinkish or pale horn-colored beak", "slender tail"]
+    },
+    "House_Sparrow": {
+        "texture": ["chunky thick plumage", "messy ragged black throat patch", "heavily streaked brown back"],
+        "color": ["rich chestnut-brown cape wrapping around the back of the neck (in males)", "ash-grey cap right on top of the head", "bold messy black bib extending down the throat and chest", "females are a plain dusty dull brownish-grey all over"],
+        "shape": ["very bulky heavy-set and chunky sparrow", "thick heavy cone-shaped beak", "thick neck making it look aggressive and sturdy", "large round head"]
+    },
+    "Field_Sparrow": {
+        "texture": ["soft delicate feathers", "unstreaked incredibly clean belly", "smooth facial features"],
+        "color": ["rusty-orange or light reddish cap on the head", "striking bright bubblegum-pink or pale orange beak", "stark white ring completely surrounding the eye giving it a wide-eyed surprised or innocent look", "warm buff-colored chest"],
+        "shape": ["small round plump body", "relatively long tail", "tiny bright pink cone beak", "delicate and fragile-looking profile"]
+    },
+    "Fox_Sparrow": {
+        "texture": ["heavily spotted and streaky chest looking like messy paint drops", "rich thick dense woodland plumage", "smooth tail feathers"],
+        "color": ["rich reddish-brown, rust, or dark chocolate brown overall depending on the region", "stark white belly heavily plastered with massive dark triangular or upside-down V-shaped spots", "yellowish lower beak"],
+        "shape": ["unusually large and chunky sparrow", "heavy thick bulky beak", "plump heavy-chested round body", "looks like an oversized robust and muscular finch", "large sturdy legs for scratching the ground"]
+    },
+    "Grasshopper_Sparrow": {
+        "texture": ["smooth unstreaked and unblemished belly", "slightly scaly pattern on the back", "sleek flat appearance on the head"],
+        "color": ["warm buff or pale yellowish-tan wash across the chest", "distinctive bright yellow dot directly above the eye", "pale pinkish or bone-colored beak", "lacks any dark streaks on the front"],
+        "shape": ["unusually flat-topped head looking almost reptilian", "short stubby tail", "relatively large chunky and deep beak for its head size", "plump heavy-chested ground bird profile"]
+    },
+    "Harris_Sparrow": {
+        "texture": ["smooth grey flanks", "messy and mottled black front", "thick heavy winter-coat appearance"],
+        "color": ["striking bright bubblegum-pink beak", "solid jet-black crown, face, and throat looking exactly like a dark executioner's hood or a messy black beard", "clean grey collar wrapping around the neck"],
+        "shape": ["the largest and bulkiest of all the sparrows", "massive heavy-chested body", "stout thick pink beak", "upright proud and dominant posture"]
+    },
+    "Henslow_Sparrow": {
+        "texture": ["crisp sharp black streaks on the chest", "smooth pale belly", "intricate scaly-looking back feathers"],
+        "color": ["distinctive olive-green or mustard-green wash covering the head and back of the neck", "rich rusty-red or chestnut-colored wings", "stark black vertical pencil lines on the upper chest"],
+        "shape": ["very flat-topped large head", "large pale heavy beak", "relatively short tail", "compact chunky and thick-necked body"]
+    },
+    "Le_Conte_Sparrow": {
+        "texture": ["fine delicate streaking on the sides", "smooth soft pale belly", "crisp clean head stripes"],
+        "color": ["brilliant glowing pale-orange or rich buff-colored face and eyebrow", "pale grey cheek patch", "pinkish-brown patch on the back of the neck", "stark white racing stripe running directly down the very top of the head"],
+        "shape": ["tiny secretive and delicate sparrow", "very small thin conical beak", "relatively short tail", "round plump little body often hiding in tall grass"]
+    },
+    "Lincoln_Sparrow": {
+        "texture": ["extremely neat and tidy appearance", "fine crisp pencil-thin streaks", "smooth unstreaked grey belly"],
+        "color": ["pale grey face", "warm buff or pale orange wash strictly across the upper chest and mustache area", "chest is covered in very fine crisp black lines that don't look messy", "stark white lower belly"],
+        "shape": ["small elegant and graceful sparrow", "slightly peaked or lightly crested head", "thin delicate pointy beak", "neat compact silhouette"]
+    },
+    "Nelson_Sharp_tailed_Sparrow": {
+        "texture": ["soft blurry or smudged streaks on the chest looking like water-colors", "smooth unstreaked lower belly", "stiff spiky tail feathers"],
+        "color": ["bright glowing pumpkin-orange face", "dark slate-grey crown and back of the neck", "blurry washed-out orange on the chest completely lacking sharp crisp lines"],
+        "shape": ["sleek flat-headed aerodynamic profile", "relatively long beak for a sparrow", "stiff sharply pointed tail feathers", "streamlined marsh-bird posture"]
+    },
+    "Savannah_Sparrow": {
+        "texture": ["heavily streaked and speckled breast", "neat overlapping back feathers", "clean white base color on the front"],
+        "color": ["crisp dark brown stripes plastered all over the white chest and flanks", "distinctive bright lemon-yellow patch directly above the eye acting like a bright yellow eyebrow", "pinkish legs"],
+        "shape": ["small compact and lively sparrow", "short distinctly notched tail", "tiny pointed beak", "often seen perching prominently on wire fences or weed stalks"]
+    },
+    "Seaside_Sparrow": {
+        "texture": ["muddy or dingy overall look", "messy blurry unstreaked belly", "sleek tightly packed marsh-bird plumage"],
+        "color": ["dark slate-grey or olive-grey overall appearance blending perfectly with dark marsh mud", "blurry dirty-looking pale chest", "striking bright yellow streak directly in front of the eye", "stark white throat patch"],
+        "shape": ["large robust and sturdy sparrow", "long thick pointy beak adapted for foraging in mud and catching small crabs", "large sturdy legs", "relatively short tail"]
+    },
+    "Song_Sparrow": {
+        "texture": ["messy broad brush-stroke streaks on the chest", "thick heavy dense plumage", "smooth grey and brown facial stripes"],
+        "color": ["heavy dark brown streaks on a white belly that merge together into one large dark target spot right in the exact center of the chest", "alternating warm brown and grey stripes on the top of the head"],
+        "shape": ["medium-sized chunky and familiar sparrow", "relatively long rounded tail often held pumped, cocked, or twitching", "sturdy heavy conical beak", "round heavy belly"]
+    },
+    "Tree_Sparrow": {
+        "texture": ["extremely clean and unblemished belly", "neat crisp facial markings", "smooth unbroken rusty cap"],
+        "color": ["bright rusty-red or copper-colored cap right on top of the head", "stark rusty line extending directly behind the eye", "completely clean pale grey breast with exactly one single distinct dark black dot right in the very center", "unique two-toned beak with a dark upper half and a bright yellow lower half"],
+        "shape": ["plump round fluffy winter sparrow", "relatively long notched tail", "upright alert posture", "clean neat and well-groomed appearance"]
+    },
+    "Vesper_Sparrow": {
+        "texture": ["heavily streaked back and upper chest", "smooth unstreaked lower belly", "crisp clean facial lines"],
+        "color": ["warm pale greyish-brown overall", "stark white ring completely surrounding the eye", "flashing pure white outer tail feathers that act like signal flags in flight", "hidden chestnut-red patch on the shoulder"],
+        "shape": ["plump medium-sized sparrow", "relatively long distinctly notched tail", "slender pointy beak", "upright posture on grassy fences"]
+    },
+    "White_crowned_Sparrow": {
+        "texture": ["extremely smooth and clean unstreaked breast", "crisp high-contrast bold head stripes", "neat tightly packed plumage"],
+        "color": ["stark jet-black and pure white racing stripes completely covering the top of the head like a striped bicycle helmet", "smooth pale ash-grey face and chest", "pale pinkish, yellowish, or bright orange beak"],
+        "shape": ["large elegant and long-necked sparrow", "upright confident posture", "sleek aerodynamic head profile", "relatively long tail"]
+    },
+    "White_throated_Sparrow": {
+        "texture": ["crisp clean facial patterns", "smooth unstreaked grey belly", "distinct sharply defined throat patch"],
+        "color": ["brilliant neon yellow spots directly in front of the eyes acting like tiny glowing headlights", "stark pure white throat patch heavily outlined by a dark black border looking like a painted bib", "black and white striped crown"],
+        "shape": ["chunky heavy-bodied sparrow", "prominent rounded head", "dark conical beak", "robust and sturdy silhouette"]
+    },
+    "Cape_Glossy_Starling": {
+        "texture": ["intensely glossy and highly reflective metallic surface", "smooth sleek armor-like plumage", "unbroken reflective sheen"],
+        "color": ["brilliant electric blue and emerald green iridescence completely covering the entire body", "glowing bright golden-yellow or blazing orange eyes standing out sharply against the dark face", "jet black beak and legs"],
+        "shape": ["medium-sized sturdy and robust bird", "upright aggressive walking posture", "relatively short squared-off tail", "strong straight beak"]
+    },
+    "Bank_Swallow": {
+        "texture": ["smooth aerodynamic coat", "crisp division between the chest band and the belly", "soft pale underparts"],
+        "color": ["sandy brown or earthy brown back and head", "pure clean white throat and belly", "sharp distinct dark brown horizontal band completely crossing the upper chest like a tight collar"],
+        "shape": ["tiny streamlined swallow", "fluttery delicate wings", "slightly notched tail (not deeply forked)", "very small dark beak"]
+    },
+    "Barn_Swallow": {
+        "texture": ["very smooth highly aerodynamic plumage", "glossy metallic sheen on the back", "neatly layered long flight feathers"],
+        "color": ["metallic cobalt blue back, wings, and top of the head", "rich dark rusty-orange or reddish-brown face and throat", "pale orange or creamy buff belly"],
+        "shape": ["extremely deeply forked tail shaped exactly like a V or a pair of open scissors", "long swept-back pointed wings resembling a fighter jet", "streamlined bullet-like head", "tiny flat beak"]
+    },
+    "Cliff_Swallow": {
+        "texture": ["smooth unstreaked back", "neat distinct color patches on the face", "matte soft belly"],
+        "color": ["dark metallic blue back and crown", "stark pale white or buffy patch completely covering the forehead looking like a bright headlamp", "dark rusty-red face and dark throat", "pale buffy or pale orange rump patch flashing distinctly in flight"],
+        "shape": ["compact thick-necked swallow", "squared-off blunt tail completely lacking the deep fork of the Barn Swallow", "broad swept wings", "chunky body profile"]
+    },
+    "Tree_Swallow": {
+        "texture": ["incredibly sleek and glossy", "highly reflective metallic back", "pure flawless unblemished white breast"],
+        "color": ["blindingly bright metallic greenish-blue or deep azure-blue back and head", "pure clean stark white belly and throat", "dark face mask hiding the eyes in a dark shadow"],
+        "shape": ["sleek streamlined aerodynamic swallow", "distinctly notched tail", "broad pointed wings crossing over the tail when resting", "tiny beak"]
+    },
+    "Scarlet_Tanager": {
+        "texture": ["velvety soft plumage", "stark contrasting geometric color blocks", "smooth unstreaked body feathers"],
+        "color": ["blindingly bright fiery blood-red body completely covering the head, chest, and belly", "pitch-black wings and tail totally devoid of any red", "stark sharp division between the red body and black wings", "pale thick bone-colored beak"],
+        "shape": ["medium-sized plump songbird", "thick sturdy slightly swollen beak", "plump round body", "relatively short thick neck"]
+    },
+    "Summer_Tanager": {
+        "texture": ["smooth overall washed appearance", "uniform unstreaked body", "soft velvet-like texture"],
+        "color": ["completely solid rosy-red or strawberry-red everywhere", "wings and tail are the exact same red color as the body (completely lacking the black wings of the Scarlet Tanager)", "large pale yellowish or horn-colored beak"],
+        "shape": ["chunky heavy-set songbird", "large heavy and thick pointy beak", "large blocky head", "sturdy robust body profile"]
+    },
+    "Artic_Tern": {
+        "texture": ["smooth highly aerodynamic seabird coat", "sleek unblemished white breast", "clean sharply defined black cap"],
+        "color": ["striking dark blood-red beak completely lacking any black tip", "solid jet-black cap extending down the nape", "pale grey wings", "very short bright red legs"],
+        "shape": ["extremely deeply forked long tail resembling a pair of sharp scissors", "very short stubby legs making it look like its belly is touching the ground", "streamlined slender profile", "swallow of the sea"]
+    },
+    "Black_Tern": {
+        "texture": ["velvety soft dark plumage", "smooth gradient between the dark body and lighter wings", "delicate flight feathers"],
+        "color": ["dark charcoal-grey or sooty black head, chest, and belly during breeding", "contrasting pale silvery-grey wings and tail", "stark white patch under the tail", "dark blackish beak"],
+        "shape": ["small delicate tern", "slightly notched but barely forked short tail", "slender dark beak", "looks like a dark storm cloud with silver wings floating over the water"]
+    },
+    "Caspian_Tern": {
+        "texture": ["bulky and dense seabird feathers", "smooth heavy mantle", "slightly shaggy black crest on the back of the head"],
+        "color": ["massive brilliant bright red or orange-red beak with a dark smudged tip", "pale grey back", "stark pure white belly", "solid black cap", "dark blackish legs"],
+        "shape": ["the largest and heaviest of all terns", "massive thick heavy beak looking exactly like a large bright flying carrot attached to its face", "broad heavy wings", "relatively short and thick neck", "bulky gull-like body"]
+    },
+    "Common_Tern": {
+        "texture": ["crisp clean sleek appearance", "smooth pale grey mantle", "neatly folded wingtips"],
+        "color": ["bright orange-red beak with a distinct sharp black tip looking as if it was dipped in black ink", "pale grey back", "white belly", "dark black wingtips", "orange-red legs"],
+        "shape": ["slender graceful and aerodynamic profile", "deeply forked tail but shorter than the Arctic Tern", "sharp straight pointed beak", "longer legs than the Arctic Tern giving it a taller standing posture"]
+    },
+    "Elegant_Tern": {
+        "texture": ["smooth sleek coastal bird plumage", "prominent shaggy and messy crest feathers flowing off the back of the head", "soft unbroken white chest"],
+        "color": ["solid black cap that extends far down the back of the neck", "long bright yellowish-orange or pale orange beak", "pure white underparts", "pale grey back"],
+        "shape": ["very slender and elegant overall profile", "long thin gracefully down-curved or drooping beak", "wild shaggy crest pointing straight backward like slicked-back hair in the wind", "long deeply forked tail"]
+    },
+    "Forsters_Tern": {
+        "texture": ["frosty and pale appearance", "highly reflective white belly", "smooth unstreaked head"],
+        "color": ["bright orange beak with a black tip", "pale frosty-silver or almost white wingtips completely lacking the dark trailing edge of other terns", "in winter, it has a distinct black bandit mask covering only the eyes and ears instead of a full black cap"],
+        "shape": ["sleek aerodynamic body", "deeply forked tail", "straight pointed beak", "long bright orange legs"]
+    },
+    "Least_Tern": {
+        "texture": ["delicate and fragile-looking feathers", "smooth stark facial patterns", "rapid fluttery wing texture in flight"],
+        "color": ["bright yellow beak with a tiny black tip", "yellowish-orange legs", "stark white triangular patch right on the forehead cutting sharply into the black cap like a bright headlamp", "pale grey back"],
+        "shape": ["extremely tiny and miniature tern", "very short tail", "narrow pointed wings", "rapid hovering posture before diving", "small thin straight beak"]
+    },
+    "Green_tailed_Towhee": {
+        "texture": ["smooth songbird back", "crisp dark mustache stripes on the face", "soft plain unstreaked breast"],
+        "color": ["bright rusty-red or copper-colored cap right on top of the head", "olive-green or yellowish-green back, wings, and tail", "stark pure white throat outlined by dark blackish lines", "pale grey chest and belly"],
+        "shape": ["chunky heavy-bodied sparrow-like bird", "relatively long tail", "thick conical seed-cracking beak", "prominent slight crest or peaked head"]
+    },
+    "Brown_Thrasher": {
+        "texture": ["heavily spotted and streaked chest looking like painted teardrops", "rich warm sleek back plumage", "stiff incredibly long tail feathers"],
+        "color": ["striking rich cinnamon-brown, rust-brown, or reddish-brown back and head", "pale buffy-white belly covered in heavy dark brown elongated spots", "fierce glowing bright yellow eyes", "two white or pale wing bars"],
+        "shape": ["large slender elongated songbird", "unusually long sweeping tail that it often twitches or drags", "long sturdy distinctly down-curved beak", "fierce alert posture"]
+    },
+    "Sage_Thrasher": {
+        "texture": ["drab dusty camouflage texture", "messy heavily streaked front", "smooth unpatterned head"],
+        "color": ["dull greyish-brown or sandy-grey back blending perfectly with desert sagebrush", "pale whitish belly heavily plastered with dark messy streaks and spots", "pale yellow eyes", "white spots on the outer tail feathers"],
+        "shape": ["smaller and more compact than the Brown Thrasher", "relatively short and straight beak (not down-curved)", "long tail but shorter than other thrashers", "plump desert-dwelling profile"]
+    },
+    "Black_capped_Vireo": {
+        "texture": ["smooth olive back", "crisp high-contrast facial lines", "soft unstreaked belly"],
+        "color": ["solid jet-black cap covering the top of the head exactly like a tight dark beanie (in males) or slate-grey (in females)", "striking stark white figure-eight shape completely encircling both eyes and crossing the beak like thick white glasses", "olive-green back"],
+        "shape": ["tiny and highly active songbird", "plump compact body", "very short but thick hooked beak", "looks extremely front-heavy due to the distinct facial markings"]
+    },
+    "Blue_headed_Vireo": {
+        "texture": ["crisp clean horizontal wing bars", "smooth unstreaked white throat", "neatly defined color zones"],
+        "color": ["distinct slate blue-grey head contrasting sharply with a mossy olive-green back", "stark pure white spectacles or goggles around the eyes that pop brightly against the dark head", "bright white throat", "yellowish wash on the flanks"],
+        "shape": ["chunky and robust songbird", "thick heavy beak with a slight hook at the tip", "large blocky head", "sturdy upright perching posture"]
+    },
+    "Philadelphia_Vireo": {
+        "texture": ["completely smooth and plain appearance", "lacks any stripes or wing bars", "soft watercolor-like blending on the chest"],
+        "color": ["greyish-green head", "distinct pale lemon-yellow wash running straight down the exact center of the throat and chest", "dark smudge line running directly through the dark eye", "pale white eyebrow line"],
+        "shape": ["plump round fluffy bird", "thick short slightly hooked beak", "very soft and rounded profile", "looks like a chubbier and yellower version of a warbler"]
+    },
+    "Red_eyed_Vireo": {
+        "texture": ["sleek unbroken plumage", "crisp sharp horizontal pencil lines on the head", "smooth pale belly"],
+        "color": ["piercing glowing ruby-red or blood-red eye", "slate blue-grey crown on the top of the head completely bordered by sharp black lines", "stark white eyebrow directly above a dark black eye-line", "olive-green back"],
+        "shape": ["sleek elongated and somewhat stretched profile", "horizontal leaning posture", "flat-topped aerodynamic head", "relatively long thick beak"]
+    },
+    "Warbling_Vireo": {
+        "texture": ["extremely plain and drab", "smooth matte finish", "completely lacks any sharp markings, stripes, or wing bars"],
+        "color": ["washed-out pale greyish-green or dusty olive overall", "blank whitish or pale grey face", "faint pale white eyebrow is the only visible marking", "dark eye (not red or white)"],
+        "shape": ["chubby soft-looking songbird", "relatively thick stout beak", "round head", "visually the most featureless and blank of all the vireos"]
+    },
+    "White_eyed_Vireo": {
+        "texture": ["neat clean wing bars", "smooth olive back", "crisp distinct eye rings"],
+        "color": ["striking pale white, silver, or almost ghostly pale iris in the eye", "bright yellow spectacles wrapping around the pale eye looking exactly like yellow goggles", "mossy green back", "yellowish wash on the sides"],
+        "shape": ["thick-necked and heavy-chested", "large rounded head", "stout heavy dark beak with a small hook", "upright and alert posture hidden in dense shrubs"]
+    },
+    "Yellow_throated_Vireo": {
+        "texture": ["vibrant bold color blocking", "crisp stark white stripes on the wings", "smooth blending of yellow and olive"],
+        "color": ["brilliant bright lemon-yellow throat and upper chest", "yellow color extends up to form bright yellow spectacles around the eye", "olive-green back", "stark pure white belly strongly contrasting with the yellow chest"],
+        "shape": ["heavily built and muscular-looking vireo", "very thick heavy hooked beak", "large head", "chunky and robust silhouette"]
+    },
+    "Bay_breasted_Warbler": {
+        "texture": ["smooth dense woodland plumage", "neat white wing bars", "dark contrasting facial mask"],
+        "color": ["rich chestnut, dark rusty-red, or bay color painting the crown, throat, and sides like dried blood or dark rust", "striking creamy-yellow patch on the side of the neck separating the dark head from the back", "dark black face mask", "grey back with dark streaks"],
+        "shape": ["medium-sized plump warbler", "thin sharply pointed dark beak", "active energetic posture", "relatively short tail"]
+    },
+    "Black_and_white_Warbler": {
+        "texture": ["dizzying highly contrasting striped pattern", "stark sharp geometric lines all over the body", "sleek tree-creeping plumage"],
+        "color": ["looks exactly like a flying zebra", "completely covered from head to tail in stark black and white vertical and horizontal stripes", "zero bright colors or warm tones anywhere on the body"],
+        "shape": ["creeping posture usually seen flattened vertically against tree bark like a nuthatch", "relatively long and slightly downcurved thin beak for probing bark", "short tail", "slender streamlined body"]
+    },
+    "Black_throated_Blue_Warbler": {
+        "texture": ["velvety smooth bold color blocks", "completely unstreaked sleek back", "crisp pure division between colors"],
+        "color": ["deep navy blue or dark midnight blue back and head", "solid jet-black face and throat extending down the sides like a dark bib", "pristine pure white belly", "distinctive stark white square spot directly on the folded wing looking exactly like a white pocket square"],
+        "shape": ["sleek elegant and neat warbler", "sharp pointy little dark beak", "clean compact profile", "horizontal relaxed perching posture"]
+    },
+    "Blue_winged_Warbler": {
+        "texture": ["smooth soft brightly colored breast", "clean crisp division between body and wings", "neat white wing bars"],
+        "color": ["brilliant glowing lemon-yellow head, chest, and belly", "slate blue-grey wings and tail", "stark single thin black line running straight through the eye like a sharp needle", "white undertail coverts"],
+        "shape": ["small compact and active warbler", "very sharp straight pointed dark beak", "sleek head profile completely lacking any streaks or spots"]
+    },
+    "Canada_Warbler": {
+        "texture": ["crisp broken streaky lines on the chest", "smooth unstreaked back", "distinct eye rings"],
+        "color": ["bright pure yellow throat and belly", "slate-grey back and head completely lacking any green tones", "bold stark white spectacles completely encircling the eye", "striking dark black dashed lines forming a distinct necklace draping across the yellow chest"],
+        "shape": ["plump energetic songbird", "tiny thin beak", "often holds its tail slightly raised", "looks heavily decorated on the chest"]
+    },
+    "Cape_May_Warbler": {
+        "texture": ["heavily tiger-striped belly", "rich intricate facial patterns", "dense colorful plumage"],
+        "color": ["striking rich chestnut or rusty-red patch directly on the cheek looking almost like a painted blush or a bruised face", "glowing neon yellow collar wrapping around the neck", "yellow belly heavily covered in bold black tiger stripes", "dark crown"],
+        "shape": ["slender elegant warbler", "distinctly thin and slightly down-curved tiny beak tailored for drinking nectar", "compact energetic silhouette"]
+    },
+    "Cerulean_Warbler": {
+        "texture": ["smooth crisp horizontal wing lines", "clean unstreaked throat", "neat tidy appearance"],
+        "color": ["brilliant sky-blue or cerulean blue back and top of the head", "pure stark white belly", "thin distinct dark blue or blackish necklace line completely crossing the upper chest", "dark blue streaking running down the white sides"],
+        "shape": ["tiny canopy-dwelling bird", "short tail", "slender pointy beak", "looks incredibly neat and delicately patterned"]
+    },
+    "Chestnut_sided_Warbler": {
+        "texture": ["highly contrasting clean color zones", "smooth white belly completely lacking any dark spots", "stiff upright tail"],
+        "color": ["blindingly bright neon yellow cap strictly on the very top of the head", "pristine pure white breast and belly", "striking rich chestnut-red or brick-red thick stripes running straight down the flanks (ribs) exactly like a bloody streak or a thick red marker line"],
+        "shape": ["small highly active warbler", "distinctive posture with the tail frequently held cocked vertically straight up in the air", "tiny dark beak"]
+    },
+    "Golden_winged_Warbler": {
+        "texture": ["extreme geometric contrasting face masks", "sleek smooth grey back", "crisp colored wing patches"],
+        "color": ["silvery-grey back and belly", "solid jet-black throat bib and a distinct black cheek patch separated by stark white borders", "brilliant glowing golden-yellow square patch on the wing", "bright golden-yellow cap on the head"],
+        "shape": ["slender highly streamlined warbler", "sharply pointed very thin dark beak", "looks like it's wearing a very sharp black and yellow mask", "elegant horizontal posture"]
+    },
+    "Hooded_Warbler": {
+        "texture": ["solid unbroken dark hood covering the neck", "smooth brightly colored face", "clean unstreaked yellow belly"],
+        "color": ["brilliant golden-yellow face and forehead", "face is completely tightly enclosed by a solid pitch-black hood and throat looking exactly like a face peeking out of a dark balaclava or scuba mask", "olive-green back", "bright yellow underparts"],
+        "shape": ["plump heavy-bodied warbler", "large round head made more prominent by the black hood", "large dark eyes", "often flicks its tail open to reveal white spots"]
+    },
+    "Kentucky_Warbler": {
+        "texture": ["smooth olive back", "solid unbroken bright yellow underparts completely lacking any stripes", "stark dark facial markings"],
+        "color": ["bright rich yellow throat and belly", "olive-green back", "stark yellow spectacles wrapping partially around the eye", "heavy dark black patches extending down from the eyes looking exactly like thick black sideburns or heavy dark tears"],
+        "shape": ["chunky heavy-set and robust warbler", "relatively large thick legs for a warbler", "often seen walking confidently on the forest floor rather than hopping in trees", "heavy thick neck"]
+    },
+    "Magnolia_Warbler": {
+        "texture": ["bold heavy dark streaks radiating outwards", "crisp geometric tail patterns", "smooth grey crown"],
+        "color": ["brilliant yellow belly completely plastered with heavy dark black stripes radiating from the neck like a dark starburst", "stark black face mask", "huge white patch on the wings", "distinctive tail pattern that is white at the base and broadly black at the tip"],
+        "shape": ["medium-sized energetic warbler", "constantly spreading and fanning its tail to show off the striking white and black division", "plump round belly"]
+    },
+    "Mourning_Warbler": {
+        "texture": ["smooth grey hood covering the entire head", "rough or darker textured patch on the chest", "clean unstreaked olive back"],
+        "color": ["dark slate-grey hood completely covering the head and neck", "striking dark pitch-black or deeply bruised-looking patch sitting right on the lower throat where the grey meets the yellow belly looking like a dark mourning veil or crepe", "olive-green back", "bright yellow belly"],
+        "shape": ["heavy thick-necked warbler", "stout and robust body", "lacks any white eye rings or spectacles making its face look very blank and severe", "ground-dwelling skulking posture"]
+    },
+    "Myrtle_Warbler": {
+        "texture": ["heavily streaked dark back", "crisp clean white throat", "sharp white wing bars"],
+        "color": ["striking bright butter-yellow patch on the rump (lower back) affectionately known as a 'butter butt'", "bright yellow patches on the sides of the chest and crown", "stark white throat completely separating the dark cheeks", "dark bluish-grey or blackish back"],
+        "shape": ["chunky and robust warbler", "sturdy thick body", "short thin dark beak", "active flitting posture"]
+    },
+    "Nashville_Warbler": {
+        "texture": ["smooth completely unstreaked breast", "crisp pure division between head and back", "stark white eye ring"],
+        "color": ["distinct slate-grey head contrasting with an olive-green back", "bright vibrant yellow throat and belly", "bold stark white ring completely encircling the eye", "white patch hidden between the legs"],
+        "shape": ["small compact and round songbird", "very sharp thin pointy beak", "round head profile completely lacking any stripes or lines"]
+    },
+    "Orange_crowned_Warbler": {
+        "texture": ["blurry smudged and washed-out appearance", "faint indistinct streaking on the chest looking like messy watercolor", "very drab and featureless overall"],
+        "color": ["dull olive-green or dusty yellowish-grey all over the body", "faint broken yellow eye-ring", "yellowish undertail coverts", "the orange crown is almost always hidden and completely invisible"],
+        "shape": ["slender and highly active warbler", "very sharply pointed thin straight beak", "sleek aerodynamic head shape", "looks like the most plain and unadorned warbler possible"]
+    },
+    "Palm_Warbler": {
+        "texture": ["soft blurry streaking on the chest and flanks", "smooth solid-colored cap on the head", "clean bright patch under the tail"],
+        "color": ["solid rich rusty-red or chestnut cap right on top of the head", "bright neon-yellow patch strictly underneath the tail", "drab brownish-olive back", "pale yellow or whitish belly with brown streaks"],
+        "shape": ["distinctive behavioral posture constantly wagging and pumping its tail up and down like a ticking metronome", "often walks on the ground rather than hopping in trees", "upright alert stance", "slender tail"]
+    },
+    "Pine_Warbler": {
+        "texture": ["blurry faint streaks strictly on the sides of the chest", "smooth unpatterned olive back", "thick prominent white wing bars"],
+        "color": ["warm yellowish-green or mustard-yellow overall wash", "bright yellow throat and upper chest fading into a stark white lower belly", "dark olive cheek patch surrounding the eye"],
+        "shape": ["large chunky heavy-chested warbler", "relatively thick and heavy beak compared to other delicate warblers", "stout robust profile", "thick-necked appearance"]
+    },
+    "Prairie_Warbler": {
+        "texture": ["crisp sharp black streaks strictly on the ribs", "clean unstreaked throat", "distinct geometric facial lines"],
+        "color": ["brilliant pure yellow face and belly", "stark pitch-black heavy streaks running straight down the flanks (sides)", "distinct black crescent or semi-circle mark sitting directly underneath the eye", "dark black line running straight through the eye", "olive back with hidden reddish spots"],
+        "shape": ["small energetic warbler", "frequently bobs and wags its tail", "slender elegant body", "upright posture usually seen in low scrub bushes"]
+    },
+    "Prothonotary_Warbler": {
+        "texture": ["incredibly smooth velvety plumage", "completely solid unstreaked body", "sleek unbroken color zones"],
+        "color": ["blindingly bright glowing golden-yellow head, throat, and breast looking exactly like a glowing lightbulb", "dark slate blue-grey wings completely lacking any wing bars", "stark pure white belly", "large jet-black eyes that pop sharply against the solid yellow face"],
+        "shape": ["large heavy-set and plump warbler", "unusually long thick heavy black beak", "large round head", "chunky robust silhouette"]
+    },
+    "Swainson_Warbler": {
+        "texture": ["smooth completely unstreaked drab body", "crisp high-contrast pale eyebrow", "matte leafy-brown back"],
+        "color": ["plain warm olive-brown or chocolate-brown back blending perfectly with dead leaves", "dull pale whitish or yellowish belly", "solid rusty-brown cap", "stark pale white or cream-colored eyebrow stripe creating a fierce expression"],
+        "shape": ["very large and chunky terrestrial warbler", "flat-topped heavy head", "massive heavy pale spike-like beak", "stealthy ground-walking posture looking almost like a tiny brown heron"]
+    },
+    "Tennessee_Warbler": {
+        "texture": ["sleek immaculate and completely unstreaked breast", "sharp needle-like facial profile", "smooth aerodynamic wing finish"],
+        "color": ["silvery-grey head and back of the neck", "mossy olive-green back", "stark white or pale greyish-white throat and belly", "distinct dark straight eye-line with a crisp white eyebrow directly above it"],
+        "shape": ["highly streamlined and fast-looking profile", "very short tail", "extremely thin needle-like straight pointy beak", "flat aerodynamic head"]
+    },
+    "Wilson_Warbler": {
+        "texture": ["smooth glowing unstreaked body", "stark solid black geometric cap", "neat tightly packed feathering"],
+        "color": ["brilliant bright glowing lemon-yellow completely covering the face, breast, and belly", "olive-green back", "striking pitch-black solid circular cap sitting exactly on the very top of the head looking exactly like a small black beret or a yarmulke", "large black beady eyes"],
+        "shape": ["tiny plump round and highly active warbler", "large oversized dark eyes", "very small thin beak", "cute miniature spherical body profile"]
+    },
+    "Worm_eating_Warbler": {
+        "texture": ["completely smooth and plain breast", "matte unstreaked olive back", "crisp high-contrast racing stripes on the head"],
+        "color": ["warm buff or pale brownish-orange head and breast", "dull olive-brown back", "striking solid black stripes running perfectly parallel flat across the top of the head and straight through the eye", "pale bone-colored beak"],
+        "shape": ["unusually flat-topped head making it look almost reptilian", "relatively large heavy spike-like beak adapted for probing dead leaves", "plump body", "ground-foraging posture"]
+    },
+    "Yellow_Warbler": {
+        "texture": ["incredibly smooth glowing plumage", "crisp pencil-thin vertical streaks on the chest", "completely flawless unblemished back"],
+        "color": ["blindingly bright sunny lemon-yellow overall completely covering the entire body", "prominent rich reddish-brown or chestnut vertical streaks running down the yellow chest exactly like bleeding red paint (in males)", "large black beady eyes popping sharply against the pure yellow face"],
+        "shape": ["small plump round warbler", "tiny pointy dark beak", "cute miniature spherical silhouette", "active flitting posture in bushes"]
+    },
+    "Northern_Waterthrush": {
+        "texture": ["heavily spotted and streaked breast", "smooth dark back", "sleek water-resistant look"],
+        "color": ["dark muddy-brown or olive-brown back", "pale yellowish or off-white belly heavily plastered with dense messy blackish-brown teardrop spots", "narrow pale yellowish or buffy eyebrow stripe that stays thin all the way back"],
+        "shape": ["plump ground-walking bird", "distinctive behavioral posture constantly bobbing and pumping its tail up and down while walking", "relatively thick beak", "sturdy pinkish legs"]
+    },
+    "Louisiana_Waterthrush": {
+        "texture": ["heavily streaked sides", "completely unspotted and clean pure white throat", "smooth stark facial markings"],
+        "color": ["dark brown back", "bright stark pure white eyebrow stripe that flares out and gets noticeably wider right behind the eye exactly like a thick chalk line", "pale peach or warm buffy wash on the flanks", "crisp dark streaks strictly on the belly"],
+        "shape": ["slightly larger and chunkier than the Northern Waterthrush", "noticeably larger heavier and longer bill", "tail-bobbing posture near moving water"]
+    },
+    "Bohemian_Waxwing": {
+        "texture": ["incredibly silky and velvety plumage looking exactly like spun silk", "flawless airbrushed gradient blending", "stiff rigid waxy wing tips"],
+        "color": ["soft greyish-brown or warm ash-grey body", "striking rich rusty-red or chestnut patch directly underneath the tail", "stark jet-black bandit mask and black throat", "bold white and yellow geometric shapes on the wings", "tiny bright neon red waxy droplets on the wingtips"],
+        "shape": ["elegant plump songbird", "prominent swept-back pointed crest on the head", "sleek aerodynamic profile", "short stubby black beak"]
+    },
+    "Cedar_Waxwing": {
+        "texture": ["flawless silky-smooth feathers", "airbrushed soft appearance", "neat clean unblemished edges"],
+        "color": ["warm caramel-brown head fading incredibly smoothly into a pale yellow belly", "stark pure white patch directly underneath the tail (unlike the Bohemian Waxwing)", "jet-black bandit mask sharply outlined by a thin white line", "bright glowing yellow band at the very tip of the tail", "tiny red waxy wingtips"],
+        "shape": ["perfectly sleek and immaculate silhouette", "prominent sharp swept-back crest on the back of the head", "short wide dark beak", "elegant upright perching posture"]
+    },
+    "American_Three_toed_Woodpecker": {
+        "texture": ["messy barred or flaking texture on the back", "smooth black wings", "rough bark-like clinging appearance"],
+        "color": ["mostly black and white", "stark bright yellow patch sitting strictly on the forehead/crown (in males)", "messy black and white horizontal barring or 'ladder' pattern on the back", "black flanks heavily speckled with white spots", "dark face with a white stripe below the eye"],
+        "shape": ["medium-sized tough-looking woodpecker", "stiff straight tail used as a rigid prop against the tree", "straight chisel-like beak", "vertical tree-hugging posture"]
+    },
+    "Pileated_Woodpecker": {
+        "texture": ["stiff robust flight feathers", "prominent fiery feather crest", "smooth dark glossy body"],
+        "color": ["mostly solid jet-black body", "blindingly bright neon red triangular crest covering the top of the head", "stark bold white racing stripes running down the side of the face and sweeping down the neck", "flashing white underwings highly visible in flight"],
+        "shape": ["huge massive crow-sized woodpecker", "massive heavy chisel-like thick beak", "flaming pointed crest sweeping backwards looking exactly like a red spiked helmet", "stiff vertical clinging posture"]
+    },
+    "Red_bellied_Woodpecker": {
+        "texture": ["perfectly parallel horizontal zebra stripes on the back", "smooth pale belly", "sleek glowing cap"],
+        "color": ["back and wings are completely covered in mesmerizing black and white horizontal tiger stripes or zebra stripes", "bright neon red completely capping the back of the neck", "pale grey or whitish face and belly (the 'red belly' is extremely faint and mostly invisible)"],
+        "shape": ["medium-large sturdy woodpecker", "long dark chisel-like straight beak", "upright vertical clinging posture on tree trunks", "strong thick neck"]
+    },
+    "Red_cockaded_Woodpecker": {
+        "texture": ["crisp horizontal barring on the back", "smooth stark white cheek patches", "neat clean highly contrasting plumage"],
+        "color": ["black and white horizontally barred 'ladder' pattern exactly covering the back", "distinct massive pure white cheek patch spanning the entire side of the face", "solid jet-black cap extending into a black stripe running down the side of the neck", "tiny invisible red streak on the side of the head (the cockade)"],
+        "shape": ["compact agile woodpecker", "straight sharp thin beak", "vertical tree-hugging posture", "very distinct sharply defined facial map"]
+    },
+    "Red_headed_Woodpecker": {
+        "texture": ["completely smooth and sleek unbroken plumage", "looks almost artificial or painted due to large solid color blocks", "lacks any streaks, spots, or messy lines"],
+        "color": ["solid deep blood-red or crimson completely covering the entire head, neck, and throat like a red velvet hood", "pristine stark pure white belly and chest", "jet-black back with a massive stark white square patch on the lower wings"],
+        "shape": ["medium-sized robust woodpecker", "sturdy heavy chisel-like beak", "upright vertical clinging posture on tree trunks", "sharp clear geometric body profile"]
+    },
+    "Downy_Woodpecker": {
+        "texture": ["soft fluffy downy feathers", "messy spotted checkerboard texture on the wings", "bristly hair-like feathers covering the base of the beak"],
+        "color": ["black and white checkerboard wings", "stark white broad stripe running straight down the center of the back", "tiny bright neon-red square patch strictly on the back of the head (in males)", "pure white belly"],
+        "shape": ["extremely tiny and compact miniature woodpecker", "very short stubby needle-like beak that is noticeably smaller than its head width", "cute round head", "vertical tree-hugging posture"]
+    },
+    "Bewick_Wren": {
+        "texture": ["smooth unstreaked belly", "matte soft brownish back", "crisp high-contrast facial lines"],
+        "color": ["warm chocolate-brown back", "clean greyish-white belly", "striking stark pure white eyebrow stripe running far back behind the eye", "dark tail with bright white spots on the outer corners"],
+        "shape": ["slender active bird", "very long tail that is constantly flicked sideways or held cocked upwards", "long slender gracefully down-curved beak", "elegant aerodynamic profile"]
+    },
+    "Cactus_Wren": {
+        "texture": ["harsh rough desert plumage", "heavily spotted and speckled chest looking like dense coarse peppercorns", "scaly barred pattern on the back"],
+        "color": ["mottled sandy-brown, black, and white camouflage blending perfectly with desert cacti", "dense cluster of dark black spots concentrated heavily on the upper chest", "stark white eyebrow stripe"],
+        "shape": ["the largest and bulkiest of all wrens", "heavy thick distinctly curved dark beak", "sturdy muscular body", "aggressive upright perching posture usually seen sitting directly on thorny cactus plants"]
+    },
+    "Carolina_Wren": {
+        "texture": ["smooth warm unbroken color wash on the belly", "rich thick woodland plumage", "crisp stark facial markings"],
+        "color": ["rich warm cinnamon, rusty-orange, or buffy-peach color completely covering the belly and chest", "warm reddish-brown back", "bold thick pure white eyebrow stripe that stands out sharply against the dark head"],
+        "shape": ["chunky heavy-bodied and round wren", "relatively large thick head", "long slightly down-curved beak", "often holds its tail rigidly cocked straight up in the air"]
+    },
+    "House_Wren": {
+        "texture": ["extremely plain and drab appearance", "faint fine dark horizontal barring or ladder patterns on the wings and tail", "soft dusty belly"],
+        "color": ["dusty drab greyish-brown all over", "paler greyish-brown belly", "completely lacks any bold white eyebrows, heavy spots, or bright colors", "faint pale eye-ring"],
+        "shape": ["tiny highly energetic and hyperactive bird", "compact round spherical body", "relatively short tail almost always held cocked vertically straight up", "thin slightly curved beak"]
+    },
+    "Marsh_Wren": {
+        "texture": ["crisp sharp white streaks against a dark background", "smooth rusty cap", "sleek water-resistant marsh plumage"],
+        "color": ["solid dark rusty-brown or chestnut cap on top of the head", "distinctive dark blackish triangular patch on the upper back heavily marked with stark white vertical pencil lines", "warm buff-colored flanks", "stark white eyebrow"],
+        "shape": ["tiny secretive marsh bird", "clinging sideways to upright reeds or cattails", "very short tail held cocked vertically over its back", "slender pointy beak"]
+    },
+    "Rock_Wren": {
+        "texture": ["dusty pale sandy texture perfectly matching dry rocks", "finely speckled or softly streaked chest", "matte muted finish"],
+        "color": ["pale greyish-brown or sandy-grey wash all over", "faint delicate fine dark streaks on the chest", "striking warm rusty-orange or cinnamon patch directly on the lower back (rump) clearly visible when it bows"],
+        "shape": ["distinctive behavioral posture constantly doing deep knee-bends or bobbing up and down on bare rocks", "long slender sharply pointed beak", "flat-topped pale head", "relatively long tail"]
+    },
+    "Winter_Wren": {
+        "texture": ["heavily barred or scaly-looking belly pattern", "dense dark thick forest plumage", "looks somewhat messy or heavily textured up close"],
+        "color": ["dark rich chocolate-brown or mahogany overall completely lacking any bright white", "belly and flanks are heavily marked with fine dark wavy horizontal lines", "very faint pale eyebrow"],
+        "shape": ["extremely tiny bird looking exactly like a small dark round flying mouse", "ridiculously short stubby tail that looks almost entirely missing but is held cocked straight up", "round plump body", "tiny thin beak"]
+    },
+    "Common_Yellowthroat": {
+        "texture": ["smooth soft songbird feathers", "sleek unbroken belly plumage", "crisp high-contrast facial boundaries"],
+        "color": ["blindingly bright vibrant lemon-yellow throat and upper chest", "olive-brown back and wings", "stark solid jet-black face mask completely covering the eyes and forehead like a dark bandit's mask", "thin crisp white or pale grey line directly bordering the top of the black mask"],
+        "shape": ["small round plump warbler", "short thin pointed beak", "round head completely lacking a crest", "energetic posture often hiding in dense low thickets or reeds"]
+    }
+}

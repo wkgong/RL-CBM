@@ -1,0 +1,47 @@
+{
+  "Basophil": {
+    "texture": ["dense pebbled surface texture", "coarse primary granules"],
+    "color": ["dark indigo granular clusters", "intense purple nuclear stain", "deep basophilic cytoplasm"],
+    "shape": ["round cell packed with dots", "hidden middle part", "spherical cell perimeter"]
+  },
+  "Eosinophil": {
+    "texture": ["packed with uniform small beads", "grainy sandy surface"],
+    "color": ["bright orange or red dots", "bright eosinophilic granules", "pinkish background"],
+    "shape": ["two connected dark circles in the center", "looking like a pair of glasses", "round outer edge"]
+  },
+  "Erythroblast": {
+    "texture": ["completely solid and smooth dark center", "no spots or dots inside", "smooth homogenous nuclear interior"],
+    "color": ["almost black round center", "dark blue or purple outer ring", "salmon pink hemoglobin color"],
+    "shape": ["perfectly round solid ball in the middle", "very little space around the center", "uniformly circular cell shape"]
+  },
+  "Immature granulocyte": {
+    "texture": ["smooth watery area", "slight graininess", "lacy chromatin pattern"],
+    "color": ["light blue or grayish water-like area", "purple center", "pale lavender cytoplasmic wash"],
+    "shape": ["very large round cell", "large bean-shaped or oval center", "center is not split into pieces"]
+  },
+  "Lymphocyte": {
+    "texture": ["smooth and solid dark area", "clean background without dots", "condensed chromatin clumps"],
+    "color": ["deep purple center", "thin sky-blue edge", "sky blue cytoplasmic tint"],
+    "shape": ["huge round center taking up almost the whole cell", "very thin outer border", "high nuclear-to-cytoplasmic ratio"]
+  },
+  "Monocyte": {
+    "texture": ["cloudy or frosty glass look", "vacuolated cytoplasmic spaces", "ground-glass cytoplasmic texture"],
+    "color": ["grayish-blue background", "light purple center", "muddy gray-blue cytoplasm"],
+    "shape": ["very large cell", "middle part shaped like a kidney or a folded brain", "kidney-shaped nuclear indentation"]
+  },
+  "Neutrophil": {
+    "texture": ["very fine dusty spots", "fine azurophilic granules", "clear and transparent background"],
+    "color": ["pale pinkish or clear background", "dark purple middle parts"],
+    "shape": ["middle part split into 3 to 5 connected small pieces", "looking like a sausage link", "multi-lobed nuclear structure"]
+  },
+  "Platelet": {
+    "texture": ["rough tiny fragments", "looks like dirt on the lens", "fragmented cellular edges"],
+    "color": ["small purple or dark pink spots"],
+    "shape": ["tiny irregular pieces", "much smaller than other round cells", "often clustered in groups"]
+  },
+  "Artifacts_and_Noise": {
+    "texture": ["precipitated stain debris", "crushed cell smudge artifacts", "out-of-focus blurring"],
+    "color": ["artificial color shifts", "heterogeneous staining intensity", "refractive light halos"],
+    "shape": ["overlapping cell boundaries", "folded cytoplasmic edges", "clumped platelets mimicking nuclei"]
+  }
+}
